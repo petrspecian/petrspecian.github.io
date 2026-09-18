@@ -162,7 +162,7 @@ p.hero-actions { margin: 1.4rem 0; }
 
 .section-shell { max-width: 1140px; margin: 0 auto; padding: 1.6rem clamp(1.35rem, 4vw, 2.5rem) 2.2rem; border-top: 1px solid var(--rule); }
 .section-shell h2 { margin-top: 0.4rem; }
-.section-intro { max-width: var(--measure); color: var(--ink); }
+.section-intro { max-width: none; color: var(--ink); margin-bottom: 0.4rem; }
 
 .card-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.5rem 2.4rem; margin-top: 0.8rem; }
 .card-grid .feature-card { background: transparent; border: 0; padding: 0.6rem 0 1rem; display: flex; flex-direction: column; }
