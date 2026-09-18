@@ -1,0 +1,85 @@
+<!-- https://petrspecian.com/research.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Research
+
+My research draws upon my background in economics, philosophy, and political theory, focusing on the impacts of generative AI on political and educational institutions. My main interest lies in seeking ways to expedite institutional adaptation to technological shocks and improve the robustness and performance of our key institutional infrastructure.
+
+## Current work
+
+### Universities and AI
+
+As AI systems increasingly mediate research, teaching, and academic decision-making, I investigate how universities can harness AI’s benefits while preserving the human epistemic agency essential to democratic societies.
+
+Universities’ vulnerability to generative AI stems from their reliance on student-made artifacts as proxies for learning. Bundling the authentication of student performance with its quantitative evaluation is no longer sustainable within the university. The paper proposes a New Deal Model that gives up in-house grades and focuses instead on documenting the student’s journey: a machine-readable portfolio, sealed by the university and owned by the student.
+
+[Built for Humans Only? (working paper)](https://petrspecian.com/publications/built-for-humans-only.html)
+
+### AI and democracy
+
+Large language models, capable of analyzing vast amounts of text and generating human-like responses to users’ prompts, could impact democracy significantly. They can access more information than human experts and tailor their findings to individuals’ needs. Their use could broaden access to expert knowledge and make it more exploitable by democratic assemblies. However, LLMs ‘hallucinate,’ producing mistaken claims with no hint of uncertainty. Their algorithms are opaque, hindering correction of errors or undesirable behaviors. Their control by a handful of private companies is also problematic.
+
+May LLMs still enhance democracy? I study the ways in which democracies could harness the increasingly capable AI expert systems to tackle the complex challenges of the 21st century. A companion paper on Universal Basic AI Access asks who gets to use these systems in the first place.
+
+[Machine Advisors (Social Epistemology)](https://petrspecian.com/publications/machine-advisors.html) · [Universal Basic AI Access (Acta Informatica Pragensia)](https://petrspecian.com/publications/universal-basic-ai-access.html)
+
+### Generative agents for institutional experimentation
+
+Democracy research is slow, expensive, hard to scale, and ethically constrained, which means promising institutional designs go untested. Generative agents simulating human behaviour in social settings offer a way around that bottleneck, at the cost of new methodological problems: algorithmic bias, reproducibility, and the difficulty of validating synthetic agents against the very phenomena under study.
+
+This line of work grows out of an earlier proposal for a digital playground for democracy: an artificial world where institutional mechanisms can be tested and compete against each other, allowing for transparency, easy participation, and the calibration of risk.
+
+[Digital Homunculi (preprint)](https://doi.org/10.48550/arXiv.2409.00826) · [A Case for Democracy’s Digital Playground (essay)](https://theloop.ecpr.eu/a-case-for-democracys-digital-playground/)
+
+### AI proxies and intergenerational governance
+
+The rich and powerful have always strived to shape their legacy and steer the use of their resources even after their departure via ‘dead-hand devices,’ such as dynasty trusts. Compared to real-time control, these remained crude and passive. Today, agentic AI proxies which can be active, strategic, and adaptive may turn inheritance dynamics from a niche legal concern into a core problem for democratic self-governance. Democratic institutions presume that the living hold a monopoly on economic and political power. As such, they are ill-prepared for the growing influence of the dead, who are both agentic via their proxies and non-responsive, having already departed this world.
+
+Joint work with Lucy Císař Brown, first presented at the European PPE Network Conference in Bayreuth in July 2026. A chapter and an article are in preparation.
+
+[Speakers for the Dead (talk)](https://petrspecian.com/talks.html#conference-talks)
+
+## Funded projects
+
+**Look Who’s Talking? Pragmatics and Ethics of Large Language Models in Democracy**
+
+Czech Science Foundation · Team member · 2024–2026
+
+Principal investigator: Miroslav Vacura. Team: Petr Špecián, Eugenia Stamboliev. [Project website](https://llm4dem.vse.cz/)
+
+Abstract
+
+The rapid pace of technological innovation challenges established knowledge-production and dissemination structures. We propose a philosophical investigation of Large Language Models (LLMs) and their impact on democratic societies. Capable of generating vast quantities of human-like text, LLMs are likely to have significant epistemic effects. Our research question is: What epistemic effects can be expected of LLMs in democratic settings, and how can we improve the odds that this technology will serve democracy rather than harm it? We focus on three areas: (1) LLMs’ impact on democratic discourse; (2) their implications for the epistemic authority of expertise and legitimacy of democratic institutions; and (3) the ethical responsibilities of governmental bodies and citizens in shaping and using LLMs.
+
+**Perspectives of Paternalism in a Democratic Society: Lessons from Behavioral Sciences for Political Philosophy**
+
+Czech Science Foundation · Principal investigator · 2019–2023
+
+Co-investigators: Filip Tvrdý (2019–2022), Petra Chudárková (2022–2023).
+
+Abstract
+
+The project focused on the implications for political philosophy that result from the growing amount of evidence documenting systematic deviations of people’s choices from instrumentally rational behavior. This evidence challenges the assumption that people, as consumers and voters, can be expected to act in their own best interest. The project examined the proposals based on epistemic paternalism and libertarian paternalism, contributing to the debate on whether and to what extent these proposals possess the potential to support the long-term sustainability of liberal democratic institutions or to harm it. It explored the opportunities to use paternalist measures to reduce the risk of spreading of dangerous memes, such as conspiracy theories, but also the threats that follow from potential abuse of these same measures by authorities who could exploit limited rationality to pursue their self-interested ends.
+
+**Media and the Selection of Experts**
+
+IREF · Co-investigator · 2021–2022
+
+Investigators: Marek Hudík and Petr Špecián.
+
+Abstract
+
+The project addressed the media filtering of experts. We consider a media firm that asks experts to assess if a given problem is major or minor so it can report the type of the problem. The media firm decides between generalist and specialist experts. We analyze how equilibria depend on the media search costs and the probability that the true state ultimately reveals itself to the public, and aim to demonstrate that this revelation probability is the critical determinant of the accuracy of the reported expert testimony.
+
+**Behaviorally Informed Paternalism and Democratic Values**
+
+AKTION Austria–Czech Republic · Fellowship · 2021
+
+Abstract
+
+The project researched the philosophical implications of the expanding evidence that people’s choices deviate from instrumentally rational behavior in a systematic manner. The aim was to examine the compatibility of paternalist proposals with the democratic idea of individual normative sovereignty, i.e., with the commitment to accept individual value judgements incorporated in political choices as binding.
+
+## Collaboration
+
+I work with **Lucy Císař Brown** on the epistemic and social consequences of LLMs, including our joint work on AI oracles and on machine versus human expertise. I am glad to hear from researchers working on institutional adaptation to AI, particularly from outside political science.
+
+[Get in touch](https://petrspecian.com/contact.html)

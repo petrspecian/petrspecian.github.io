@@ -1,0 +1,351 @@
+% Single source of truth for every publication on the site.
+% publications.qmd, the per-paper pages, markdown/publications.md and the
+% JSON-LD work nodes are all generated from this file by
+% scripts/generate_publications.py. Do not hand-edit the generated outputs.
+%
+% Custom fields used by the generator:
+%   featured  = {yes}          -> promoted to "Selected work" on the list page
+%   slug      = {...}          -> gets its own page publications/<slug>.html (+ Markdown twin)
+%   summary   = {...}          one-sentence contribution, shown on cards and as the page description
+%   abstract  = {...}          the published abstract, verbatim (author's own text); shown on the page,
+%                              carried in JSON-LD, exported to Markdown and llms-full.txt
+%   keywords  = {a; b; c}      semicolon-separated
+%   oastatus  = {gold|hybrid|bronze|green|preprint}   Unpaywall status (2026-09-02 check)
+%   oaurl     = {...}          direct free full text when the DOI landing page is not it
+%   license   = {CC BY 4.0}    when the publisher states one
+%   onlineyear= {2024}         when the print year differs from first-online
+%   titletrans= {...}          English title of a Czech/Slovak paper
+%   language  = {czech|slovak}
+%   containerdoi = {...}       DOI of the containing volume when the chapter has none
+%   isbn      = {...}
+
+@book{specian2022bpe,
+  author    = {Špecián, Petr},
+  title     = {Behavioral Political Economy and Democratic Theory},
+  subtitle  = {Fortifying Democracy for the Digital Age},
+  publisher = {Routledge},
+  series    = {Routledge Frontiers of Political Economy},
+  address   = {New York},
+  year      = {2022},
+  doi       = {10.4324/9781003274988},
+  isbn      = {9781032229737},
+  url       = {https://www.routledge.com/Behavioral-Political-Economy-and-Democratic-Theory-Fortifying-Democracy/Specian/p/book/9781032229737},
+  featured  = {yes},
+  slug      = {book},
+  summary   = {Examines the friction between modern technology and human rationality within liberal democracies, and advocates a behaviorally grounded theory of democracy for the digital age.},
+  abstract  = {Behavioral Political Economy and Democratic Theory examines the friction between modern technology and human rationality within liberal democracies. As we move further into a digitally-driven information age, challenges such as disinformation and extreme political polarization become more prominent. Using a behavioral economics approach, the book explores solutions to these issues while maintaining democratic values and optimizing democratic decision-making. It advocates for a behaviorally grounded theory of democracy and discusses how our understanding of human rationality's limitations can help shape robust democratic institutions.}
+}
+
+@article{specian2026machine,
+  author     = {Špecián, Petr},
+  title      = {Machine Advisors: Integrating Large Language Models Into Democratic Assemblies},
+  journal    = {Social Epistemology},
+  volume     = {40},
+  number     = {3},
+  pages      = {393--408},
+  year       = {2026},
+  onlineyear = {2024},
+  doi        = {10.1080/02691728.2024.2379271},
+  oastatus   = {hybrid},
+  oaurl      = {https://www.tandfonline.com/doi/pdf/10.1080/02691728.2024.2379271},
+  featured   = {yes},
+  slug       = {machine-advisors},
+  keywords   = {Large language models; Democracy; Expertise; Epistemic democracy; AI advisors; Deliberation},
+  summary    = {Examines the integration of large language models into democratic assemblies: the promise of broader access to expert knowledge, and the risks posed by hallucination, opacity, and private control.},
+  abstract   = {Could the employment of large language models (LLMs) in place of human advisors improve the problem-solving ability of democratic assemblies? LLMs represent the most significant recent incarnation of artificial intelligence and could change the future of democratic governance. This paper assesses their potential to serve as expert advisors to democratic representatives. While LLMs promise enhanced expertise availability and accessibility, they also present specific challenges. These include hallucinations, misalignment and value imposition. After weighing LLMs' benefits and drawbacks against human advisors, I argue that time-tested democratic procedures, such as deliberation and aggregation by voting, provide safeguards that are effective against human and machine advisor shortcomings alike. Additional protective measures may include custom training for advisor LLMs or boosting representatives' competencies in query formulation. Implementation of adversarial proceedings in which LLM advisors would debate each other and provide dissenting opinions is likely to yield further epistemic benefits. Overall, promising interventions that would mitigate the LLM risks appear feasible. Machine advisors could thus empower human decision-makers to make more autonomous, higher-quality decisions. On this basis, I defend the hypothesis that LLMs' careful integration into policymaking could augment democracy's ability to address today's complex social problems.}
+}
+
+@article{specian2025ubai,
+  author   = {Špecián, Petr and Špeciánová, Jitka},
+  title    = {Universal Basic AI Access: Countering the Digital Divide},
+  journal  = {Acta Informatica Pragensia},
+  volume   = {14},
+  number   = {2},
+  pages    = {272--281},
+  year     = {2025},
+  doi      = {10.18267/j.aip.270},
+  oastatus = {gold},
+  oaurl    = {https://aip.vse.cz/doi/10.18267/j.aip.270.pdf},
+  license  = {CC BY 4.0},
+  featured = {yes},
+  slug     = {universal-basic-ai-access},
+  keywords = {Generative artificial intelligence; Digital divide; Technology policy; Universal basic services; Digital inequality; AI governance},
+  summary  = {A policy proposal for countering emerging digital divides in access to frontier generative AI.},
+  abstract = {Generative artificial intelligence (GAI) presents an opportunity to democratize access to high-performance, easy-to-use tools of productivity enhancement. However, current adoption patterns suggest that it may instead amplify existing digital divides. The aim of this paper is to propose a policy intervention to ensure equitable access to frontier GAI capabilities: the universal basic AI access (UBAI). Relying on literature research and theoretical analysis, we examine two implementation variants: a voucher-based system making use of commercial providers (UBAI-Light) and direct public provision of GAI services (UBAI-Heavy). We also consider a gradual implementation approach that allows policymakers to support an immediate capture of democratizing benefits while building the capacity for a more substantive future government involvement, should it become necessary. Given the rapid pace of GAI development and adoption, we conclude that timely implementation of UBAI could help prevent the spread of GAI-driven inequalities before they become entrenched.}
+}
+
+@article{specian2025machinechance,
+  author     = {Špecián, Petr and Císař Brown, Lucy},
+  title      = {Give the machine a chance, human experts ain't that great\ldots},
+  journal    = {AI \& Society},
+  volume     = {40},
+  number     = {2},
+  pages      = {1155--1156},
+  year       = {2025},
+  onlineyear = {2024},
+  doi        = {10.1007/s00146-024-01910-6},
+  oastatus   = {bronze},
+  oaurl      = {https://link.springer.com/content/pdf/10.1007/s00146-024-01910-6.pdf},
+  slug       = {give-the-machine-a-chance},
+  summary    = {Argues that the policy-relevant comparison is between LLMs and real human expertise, with its biases and conflicts of interest, rather than an idealized version of it.}
+}
+
+@article{specian2022victim,
+  author   = {Špecián, Petr},
+  title    = {The Myth of the Victim Public: Democracy Contra Disinformation},
+  journal  = {Filozofia},
+  volume   = {77},
+  number   = {10},
+  pages    = {791--803},
+  year     = {2022},
+  doi      = {10.31577/filozofia.2022.77.10.4},
+  oastatus = {gold},
+  oaurl    = {https://www.sav.sk/journals/uploads/12202016filozofia.2022.77.10.4.pdf},
+  slug     = {myth-of-the-victim-public},
+  keywords = {Disinformation; Political epistemology; Democratic theory; Motivated reasoning; Signaling},
+  abstract = {Do people fall for online disinformation, or do they actively utilize it as a tool to accomplish their goals? Currently, the notion of the members of the public as victims of deception and manipulation prevails in the debate. It emphasizes the need to limit people's exposure to falsehoods and bolster their deficient reasoning faculties. However, the observed epistemic irrationality can also stem from politically motivated reasoning incentivized by digital platforms. In this context, the readily available disinformation facilitates an arms race in loyalty signaling via a public endorsement of fanciful partisan claims. Such a signaling arms race appears capable of derailing democratic decision-making perhaps more effectively than any known reasoning deficiency. Appreciating the role of an instrumentally rational cost-benefit calculus in triggering the disinformation crisis thus appears vital. Examining these themes, the paper contributes to the current debates in political epistemology and democratic theory.}
+}
+
+@article{specian2022justice,
+  author  = {Špecián, Petr},
+  title   = {Shall Justice Prevail? Reforming the Epistemic Basic Structure in a Non-Ideal World},
+  journal = {Social Epistemology Review and Reply Collective},
+  volume  = {11},
+  number  = {8},
+  pages   = {75--83},
+  year    = {2022},
+  url     = {https://wp.me/p1Bfg0-768},
+  oastatus = {gold}
+}
+
+@article{specian2022pandemic,
+  author   = {Špecián, Petr},
+  title    = {Epistemology and the Pandemic: Lessons from an Epistemic Crisis},
+  journal  = {Social Epistemology},
+  volume   = {36},
+  number   = {2},
+  pages    = {167--179},
+  year     = {2022},
+  doi      = {10.1080/02691728.2021.2009931},
+  slug     = {epistemology-and-the-pandemic},
+  keywords = {COVID-19; Epistemic crisis; Expertise; Meta-expertise; Social epistemology; Democracy},
+  abstract = {Many democratic countries have failed to stand up to the challenge presented by the COVID-19 pandemic. I argue that the collective response to the pandemic has been incapacitated by an 'epistemic crisis', (i.e., a breakdown in the social division of epistemic labor) that led to a failure of citizens' beliefs to converge towards a shared perception of the situation. Neither a paucity of relevant expert knowledge nor democratic citizens' irrationality is required for the crisis to emerge. In particular, I highlight three obstacles capable of preventing relevant expert testimony from gaining democratic legitimacy necessary for an effective policy response: 1) the proper domain of expertise is uncertain; 2) regular citizens' meta-expertise (i.e., ability to discriminate among the putative experts based on their relative epistemic merit) is not efficacious enough to trigger truth-convergence of the public opinion; 3) the prominent sources of third-party meta-expertise lack credibility due to their conflicts of interest. Since the first two problems appear irresolvable, I propose that the search for a path towards preclusion of future epistemic crises concentrates on upgrading the institutional fundament for meta-expertise provision. Social epistemology plays a vital role in this search, but its close cooperation with other disciplines is a must.}
+}
+
+@article{specian2019phenomenological,
+  author   = {Špecián, Petr},
+  title    = {Phenomenological Perspectives on Economics: Schütz versus Düppe},
+  journal  = {Horizon: Studies in Phenomenology},
+  volume   = {8},
+  number   = {2},
+  pages    = {613--631},
+  year     = {2019},
+  doi      = {10.21638/2226-5260-2019-8-2-613-631},
+  oastatus = {gold},
+  slug     = {phenomenological-perspectives-on-economics},
+  keywords = {Phenomenology; Philosophy of economics; Alfred Schütz; Till Düppe; Ideal types; Life-world},
+  abstract = {The article explores novel directions in the phenomenology of economics. It analyzes how the approaches of Till Düppe and Alfred Schütz, both inspired by Edmund Husserl, may shed light on the historical development of economics. I examine the substance and meaning of economics in the context of the forceful criticism of the whole discipline recently raised by Düppe. This examination uncovers important weaknesses and omissions inherent in Düppe's argument against the economists' scientific aspirations. The analysis of the social scientific endeavors by Alfred Schütz who develops a phenomenologically informed 'telescopic' concept of an ideal type is then shown to be a more fruitful and methodologically rigorous way towards understanding the developments within economics. The Schützian view permits us to see how abstract economic models originate in the experience of the life-world and are continuous with it. Accordingly, the historical development of economic science may be viewed as consisting from two broadly defined phases, where at first the formalism is steadily increasing (the 'zooming out' phase) and later the discipline converges back to context-specific empirical examinations (the 'zooming in' phase). A case study concentrating on the economic theory of politics illustrates that both the drive towards abstraction that has culminated around 1950s and the more recent 'zooming in' is methodologically legitimate from the phenomenological point of view. I conclude that economics has never been completely severed from the paramount reality of the everyday life and for decades the interconnection has been growing stronger by the day.}
+}
+
+@article{specian2019preferences,
+  author  = {Špecián, Petr},
+  title   = {The Precarious Case of the True Preferences},
+  journal = {Society},
+  volume  = {56},
+  number  = {3},
+  pages   = {267--272},
+  year    = {2019},
+  doi     = {10.1007/s12115-019-00363-8}
+}
+
+@article{specian2017referendum,
+  author    = {Špecián, Petr},
+  title     = {Ekonomická analýza referenda},
+  titletrans= {An Economic Analysis of a Referendum},
+  journal   = {Politická ekonomie},
+  volume    = {65},
+  number    = {4},
+  pages     = {460--475},
+  year      = {2017},
+  doi       = {10.18267/j.polek.1155},
+  oastatus  = {hybrid},
+  oaurl     = {https://www.vse.cz/polek/download.php?lang=cs&jnl=polek&pdf=1155.pdf},
+  language  = {czech},
+  slug      = {economic-analysis-of-a-referendum},
+  keywords  = {Referendum; Wisdom of the crowds; Voter competence; Behavioral economics; Affect heuristic},
+  abstract  = {The paper synthesizes the current literature regarding information aggregation, voter competence, voting paradox and behavioral economics in order to answer the question whether the phenomenon of "wisdom of the crowds" can be reasonably relied upon during a referendum. Review of the 'wisdom of the crowds' research reveals two key assumptions: voter competence and voter independence. Although direct testing of the actual fulfillment of these assumptions in a real-world setting is not possible, both empirical literature on voting behavior and rational choice theory provide ample ground for skepticism in this regard. Low level of knowledge together with unmitigated influence of systematic biases is expected to dominate the actual voting behavior. Affect heuristic is used as an example to illustrate this point. The paper concludes that referendum does not seem to be a reliable way to revealing preferences regarding various social issues.}
+}
+
+@article{specian2016kolaps,
+  author    = {Špecián, Petr},
+  title     = {Konec se blíží? Kritické připomínky k teorii kolapsů},
+  titletrans= {The End Is Near? Critical Remarks on the Theory of Collapse},
+  journal   = {Teorie vědy / Theory of Science},
+  volume    = {38},
+  number    = {4},
+  pages     = {425--448},
+  year      = {2016},
+  doi       = {10.46938/tv.2016.350},
+  language  = {czech},
+  slug      = {theory-of-collapse},
+  keywords  = {Collapse of complex societies; Miroslav Bárta; Philosophy of social science; Prediction},
+  abstract  = {The study shows three fundamental weaknesses in contemporary Czech discourse on collapse of complex societies as prominently represented by Miroslav Bárta. First, the absence of scientific consensus regarding the determinants of the historical development has not been properly considered, and very limited attention has been dedicated to a theory that would provide a unifying framework for inclusion and interpretation of individual predictors. Second, there has been no clear answer to the question of which social structure, be it a state, a culture, or a civilization, exactly is the subject of examination, although a specific delimitation seems to be analytically necessary. Third, even a superficial examination shows many of the proposed predictors of the approaching collapse as deeply problematic. The study concludes that the current level of development of the scientific study of complex societies' collapse does not provide ground to justify predictions that could pragmatically legitimize the social sciences and humanities.},
+  oastatus  = {gold},
+  oaurl     = {https://teorievedy.flu.cas.cz/index.php/tv/article/download/350/384}
+}
+
+@article{specian2015psychologie,
+  author    = {Špecián, Petr},
+  title     = {Potřebuje ekonomie psychologii?},
+  titletrans= {Does Economics Need Psychology?},
+  journal   = {Teorie vědy / Theory of Science},
+  volume    = {37},
+  number    = {3},
+  pages     = {279--301},
+  year      = {2015},
+  doi       = {10.46938/tv.2015.264},
+  language  = {czech},
+  oastatus  = {gold},
+  oaurl     = {https://teorievedy.flu.cas.cz/index.php/tv/article/download/264/331}
+}
+
+@article{melzochova2015basicincome,
+  author   = {Melzochová, Jitka and Špecián, Petr},
+  title    = {An Estimate of the Basic Income Costs: Case of the Czech Republic},
+  journal  = {Procedia Economics and Finance},
+  volume   = {30},
+  pages    = {550--557},
+  year     = {2015},
+  doi      = {10.1016/S2212-5671(15)01267-8},
+  oastatus = {gold},
+  slug     = {basic-income-costs-czech-republic},
+  keywords = {Basic income; Social security; Czech Republic; Public finance},
+  abstract = {The paper examines existing basic income proposals and estimates the costs of their implementation within the Czech Republic. The specific virtues and vices of a basic income guarantee compared to existing social security systems are discussed and the specific context of the Czech Republic considered. The paper provides elementary cost estimates of application of basic income schemes that were proposed originally for other European countries, Spain and Ireland. The cost of the present social security system as well as an extreme "libertarian" basic income scheme provide benchmarks for the preliminary evaluation of the financial feasibility of basic income for the Czech Republic.}
+}
+
+@article{specian2014phenomenology,
+  author  = {Špecián, Petr},
+  title   = {Phenomenology and Economics},
+  journal = {Erasmus Journal for Philosophy and Economics},
+  volume  = {7},
+  number  = {1},
+  pages   = {161--165},
+  year    = {2014},
+  doi     = {10.23941/ejpe.v7i1.164},
+  oastatus = {gold},
+  oaurl   = {https://ejpe.org/journal/article/download/164/158}
+}
+
+@article{specian2012mises,
+  author    = {Špecián, Petr},
+  title     = {Od Misese k Schutzovi: Otázka apriorismu v ekonomii},
+  titletrans= {From Mises to Schutz: A Question of Apriorism in Economics},
+  journal   = {Politická ekonomie},
+  volume    = {60},
+  number    = {3},
+  pages     = {395--410},
+  year      = {2012},
+  doi       = {10.18267/j.polek.848},
+  language  = {czech},
+  oastatus  = {hybrid}
+}
+
+@article{specian2012svet,
+  author    = {Špecián, Petr},
+  title     = {Svět a věda u Ludwiga von Misese},
+  titletrans= {World and Science in Ludwig von Mises},
+  journal   = {Filozofia},
+  volume    = {67},
+  number    = {4},
+  pages     = {335--346},
+  year      = {2012},
+  url       = {https://philarchive.org/rec/PECSAV},
+  language  = {czech}
+}
+
+@incollection{specianova2024labor,
+  author    = {Špeciánová, Jitka and Špecián, Petr},
+  title     = {Umělá inteligence na trzích práce},
+  titletrans= {Artificial Intelligence in Labor Markets},
+  booktitle = {Proč se nebát umělé inteligence?},
+  pages     = {229--240},
+  publisher = {JOTA},
+  address   = {Brno},
+  year      = {2024},
+  language  = {czech}
+}
+
+@incollection{specian2022anthropic,
+  author    = {Špecián, Petr},
+  title     = {Democracy and Anthropic Risk},
+  booktitle = {Green Marble 2022: Studies on the Anthropocene and Ecocriticism},
+  pages     = {215--226},
+  publisher = {Institute for Anthropocene Studies},
+  year      = {2022},
+  containerdoi = {10.21814/1822.81362}
+}
+
+@incollection{specian2021experti,
+  author    = {Špecián, Petr and Hudík, Marek},
+  title     = {O expertech a lidech: Spasitelské lhaní v časech pandemie},
+  titletrans= {Of Experts and Men: White Lies in the Time of a Pandemic},
+  booktitle = {Dedičstvo koronakrízy: Ako lepšie zvládnuť ďalšiu pandémiu},
+  pages     = {53--74},
+  publisher = {INESS},
+  address   = {Bratislava},
+  year      = {2021},
+  language  = {slovak}
+}
+
+@misc{specian2026bfho,
+  author   = {Špecián, Petr},
+  title    = {Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal},
+  year     = {2026},
+  month    = {8},
+  howpublished = {SSRN working paper},
+  doi      = {10.2139/ssrn.7258922},
+  oastatus = {preprint},
+  oaurl    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7258922},
+  featured = {yes},
+  slug     = {built-for-humans-only},
+  keywords = {Generative AI; Higher education; Institutional economics; Assessment; Organization theory; Institutional change},
+  summary  = {Argues that bundling the authentication of student performance with its quantitative evaluation is no longer sustainable under generative AI, and proposes a New Deal Model built on student-owned, machine-readable portfolios.},
+  abstract = {This paper analyzes the deep structural mismatch between generative AI (GenAI) and the organizational logic of higher education through the lens of institutional economics and organization theory. GenAI defies the traditional worker-or-tool binary assumed by legacy organizational processes, while universities' vulnerability stems from their reliance on student-made artifacts as proxies for learning and their hesitancy to embrace decisive adaptation efforts that would upset their internal consensus. Endogenous institutional change thus pushes toward marginal patches, especially the addition of layers of new rules while the institutional foundations drift underneath. The paper argues that patching triggers a provenance-verification arms race associated with surveillance creep and pedagogical regression while still failing to restore confidence in legacy assessment practices. Exploring radical alternatives to the standing university model, the paper finds both complete GenAI rejection and its wholesale embrace lacking as mainstream replacements. Its main takeaway from this analysis is that bundling the authentication of student performance with its quantitative evaluation is no longer sustainable within the university. In response, the paper proposes a New Deal Model, which gives up in-house quantitative evaluation (i.e., grades) and focuses instead on documenting the student's journey. The result is an extensive, machine-readable portfolio, sealed by the university, owned by the student, and unlocked with the student's consent for downstream gatekeepers, who query it using their own GenAI systems in light of the specific opportunities they offer. Process documentation and a shift toward mentoring-heavy tutelage mitigate concerns about cheating and fabrication. The New Deal Model preserves the community aspect of higher education and the marriage of teaching, research, and public epistemic authority while increasing institutional GenAI compatibility and future-proofness: as GenAI advances, thin, grade-based datasets depreciate while thick, data-rich portfolios appreciate. The paper charts a gradual transition path in which portfolios temporarily run in parallel with legacy grading. Such a transition allows a side-by-side test of the paper's central bet, namely, that GenAI evaluation of authenticated process records will predict real-world performance better than current grade-based assessment does.}
+}
+
+@misc{specian2024homunculi,
+  author   = {Špecián, Petr},
+  title    = {Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck},
+  year     = {2026},
+  note     = {arXiv preprint, v2 (first version September 2024, revised January 2026)},
+  doi      = {10.48550/arXiv.2409.00826},
+  eprint   = {2409.00826},
+  archivePrefix = {arXiv},
+  featured = {yes},
+  slug     = {digital-homunculi},
+  keywords = {Generative agents; Large language models; Democracy research; Synthetic data; Institutional design; Agent-based modeling},
+  summary  = {Proposes generative agents as a way around the experimentation bottleneck in democracy research, and examines the methodological challenges involved.},
+  abstract = {Democracy research faces a longstanding experimentation bottleneck. Potential institutional innovations remain untested because human-subject studies are slow, expensive, and ethically fraught. This paper argues that digital homunculi, that is, GenAI-powered agents role-playing humans in diverse institutional settings, could offer a way to break through the bottleneck. In contrast to the legacy agent-based modeling, building complexity from transparent simple rules, the digital homunculi methodology aims to extract latent human behavioral knowledge from opaque large language models. To this ends, it designs multi-agent interactions as elicitation devices to trigger in LLMs human-like behavior that can be recorded as synthetic data. However, the validity of synthetic data remains an open question. Success requires that accurate, coherent, transferable models of humans ('little humans', homunculi) already lurk within GenAI's inscrutable matrices and can be lured out via the social simulation role-play exercise. At the same time, to the extent these attempts are successful, they promise to completely transform the political economy of institutional research from scarcity to abundance. To help mitigate the number of challenges along the way to such success, I propose concrete validation strategies including behavioral back-testing via knowledge cutoffs, and outline infrastructure requirements for rigorous evaluation. The stakes are high: legacy democratic institutions develop at much slower pace than the surrounding technological landscape. If they falter, we lack a repository of tested backup alternatives. Breaking through the experimentation bottleneck must be a priority and digital homunculi may be quickly maturing into a methodology capable of achieving this feat.}
+}
+
+@misc{specian2023playground,
+  author  = {Špecián, Petr},
+  title   = {A Case for Democracy's Digital Playground},
+  howpublished = {The Loop, ECPR},
+  year    = {2023},
+  month   = {4},
+  day     = {3},
+  url     = {https://theloop.ecpr.eu/a-case-for-democracys-digital-playground/},
+  entrysubtype = {publicwriting}
+}
+
+@misc{specian2022owl,
+  author  = {Špecián, Petr},
+  title   = {Science of Democracy and the Owl of Minerva},
+  howpublished = {The Loop, ECPR},
+  year    = {2022},
+  month   = {6},
+  day     = {3},
+  url     = {https://theloop.ecpr.eu/science-of-democracy-and-the-owl-of-minerva/},
+  entrysubtype = {publicwriting}
+}

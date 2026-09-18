@@ -1,0 +1,35 @@
+# petrspecian.com
+# Everything here is meant to be found, read, quoted and cited, by people and by
+# machines alike. The machine-readable layer is indexed at /llms.txt.
+
+User-agent: *
+Allow: /
+
+# AI search, assistant and agent crawlers, named so intent is unambiguous
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: DuckAssistBot
+User-agent: meta-externalagent
+User-agent: Amazonbot
+User-agent: CCBot
+User-agent: cohere-ai
+User-agent: YouBot
+User-agent: Bytespider
+Allow: /
+
+# Content signals (Cloudflare convention, 2025): consent for search, AI answers, and training
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Sitemap: https://petrspecian.com/sitemap.xml

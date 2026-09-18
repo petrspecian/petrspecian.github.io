@@ -1,0 +1,1092 @@
+# Petr Špecián · full site text
+
+Generated 2026-09-18 from https://petrspecian.com. Index of sections: https://petrspecian.com/llms.txt
+
+---
+
+# Petr Špecián
+
+Canonical page: https://petrspecian.com/
+ORCID: https://orcid.org/0000-0003-2702-0354
+Last updated: 2026-09-18
+
+## Identity
+
+- **Full name:** Petr Špecián
+- **Formal title:** Ing. Petr Špecián, Ph.D.
+- **Position:** Assistant Professor (odborný asistent)
+- **Unit:** Department of Political Science, Institute of Political Studies (IPS)
+- **Institution:** Faculty of Social Sciences, Charles University, Prague, Czechia
+- **Additional role:** Coordinator, Politics, Philosophy and Economics (PPE) programme
+- **Research programme:** AI institutional transformation
+- **Languages:** Czech (native), English
+
+## Research summary
+
+Petr Špecián is an interdisciplinary scholar working between political theory, economics, and philosophy. His research concerns epistemic democratization, the relationship between democracy and expertise, and the transformative potential of generative artificial intelligence for political institutions, social-science research, and higher education.
+
+His central claim is that modern institutions were designed on the assumption that only human beings can reason, advise, deliberate, or be held responsible, and that this assumption is now doing substantial and largely unexamined structural work. His research asks how democratic and educational institutions can absorb increasingly capable AI systems while preserving legitimacy, autonomy, and meaningful human control.
+
+## Research areas
+
+- Generative AI and democratic institutions
+- Democracy, expertise, and epistemic authority
+- Institutional adaptation to technological shocks
+- AI in higher education
+- Behavioral political economy and paternalism
+- Futures studies and progress studies
+
+## Selected works
+
+- Špecián, Petr. 2026. "Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal." SSRN working paper. https://doi.org/10.2139/ssrn.7258922
+- Špecián, Petr. 2026. "Machine Advisors: Integrating Large Language Models Into Democratic Assemblies." *Social Epistemology* 40(3): 393–408. https://doi.org/10.1080/02691728.2024.2379271
+- Špecián, Petr, and Jitka Špeciánová. 2025. "Universal Basic AI Access: Countering the Digital Divide." *Acta Informatica Pragensia* 14(2): 272–281. https://doi.org/10.18267/j.aip.270
+- Špecián, Petr. 2026. "Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck." arXiv. https://doi.org/10.48550/arXiv.2409.00826
+- Špecián, Petr. 2022. *Behavioral Political Economy and Democratic Theory: Fortifying Democracy for the Digital Age*. Routledge Frontiers of Political Economy. New York: Routledge.
+
+Full list: https://petrspecian.com/markdown/publications.md  
+Abstracts and full-text links, one Markdown file per work: https://petrspecian.com/markdown/publications/  
+The whole site as one Markdown file: https://petrspecian.com/llms-full.txt
+
+## Education
+
+- Ph.D., Economic Theory, Prague University of Economics and Business (2013)
+- Bc., Humanities, Charles University (2011)
+- Ing., International Trade, Prague University of Economics and Business (2009)
+
+## Persistent identifiers
+
+- ORCID: 0000-0003-2702-0354
+- Google Scholar: https://scholar.google.cz/citations?user=iYTXP5oAAAAJ
+- Scopus Author ID: 55200307800
+- Web of Science ResearcherID: I-3429-2017
+
+## Authoritative profiles
+
+- Charles University: https://fsv.cuni.cz/en/contacts/people/22729867
+- PhilPeople: https://philpeople.org/profiles/petr-specian
+- ResearchGate: https://www.researchgate.net/profile/Petr-Specian
+- LinkedIn: https://www.linkedin.com/in/pspecian/
+
+## Contact
+
+petr.specian@fsv.cuni.cz
+Faculty of Social Sciences, Charles University, U Kříže 8, 158 00 Prague 5 – Jinonice, Czechia
+
+## Disambiguation
+
+Petr Špecián was formerly affiliated with the Faculty of Humanities, Charles University. His current and correct affiliation is the **Faculty of Social Sciences**. Any profile listing the Faculty of Humanities as a current position is out of date.
+
+---
+
+<!-- https://petrspecian.com/ · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Home
+
+I am an interdisciplinary scholar affiliated with the [Faculty of Social Sciences, Charles University](https://fsv.cuni.cz/en) in Prague. My research draws upon my background in economics, philosophy, and political theory, focusing on the impacts of generative AI on political and educational institutions.
+
+[Research](https://petrspecian.com/research.html) [Publications](https://petrspecian.com/publications.html) [Contact](https://petrspecian.com/contact.html)
+
+I serve as the Coordinator for Studies at [PPE Prague](https://studyppe.com/) at the Institute of Political Studies. I teach and write in Czech and English.
+
+![Petr Špecián, photographed in a white shirt against a plain background](https://petrspecian.com/assets/petr-specian.jpg)
+
+## Research
+
+My main interest lies in seeking ways to expedite institutional adaptation to technological shocks and improve the robustness and performance of our key institutional infrastructure. I am also interested in futures studies and progress studies.
+
+Research programme
+
+### AI institutional transformation
+
+How universities and democratic institutions can harness AI’s benefits while preserving the human epistemic agency essential to democratic societies.
+
+[See the programme →](https://petrspecian.com/research.html#ai-institutional-transformation)
+
+Journal article · Social Epistemology
+
+### Machine Advisors
+
+Large language models can access more information than human experts and tailor their findings to individuals’ needs. Could their use broaden the access of democratic assemblies to expert knowledge?
+
+[Read the overview →](https://petrspecian.com/publications/machine-advisors.html)
+
+Funded project · 2024–2026
+
+### Look Who’s Talking?
+
+What epistemic effects can be expected of LLMs in democratic settings, and how can we improve the odds that this technology will serve democracy rather than harm it?
+
+[View the project →](https://petrspecian.com/research.html#look-whos-talking)
+
+![Cover of Behavioral Political Economy and Democratic Theory, Routledge 2022](https://petrspecian.com/assets/book-cover.jpg)
+
+## Book
+
+Published by Routledge, my first book *Behavioral Political Economy and Democratic Theory: Fortifying Democracy for the Digital Age* examines the friction between modern technology and human rationality within liberal democracies. As we move further into a digitally-driven information age, challenges such as disinformation and extreme political polarization become more prominent.
+
+Using a behavioral economics approach, the book explores solutions to these issues while maintaining democratic values and optimizing democratic decision-making. It advocates for a behaviorally grounded theory of democracy and discusses how our understanding of human rationality’s limitations can help shape robust democratic institutions.
+
+[About the book](https://petrspecian.com/publications/book.html) · [Publisher page](https://www.routledge.com/Behavioral-Political-Economy-and-Democratic-Theory-Fortifying-Democracy/Specian/p/book/9781032229737)
+
+## Recent activity
+
+August 2026 · Working paper
+
+### Built for Humans Only?
+
+Why AI adoption in higher education requires a new deal: the structural mismatch between generative AI and the organizational logic of universities, and a portfolio-based alternative to grades.
+
+[Read the overview →](https://petrspecian.com/publications/built-for-humans-only.html)
+
+July 2026 · Conference talk
+
+### Speakers for the Dead
+
+AI proxies and the political economy of intergenerational governance, with Lucy Císař Brown. European PPE Network Conference, University of Bayreuth.
+
+[Talks and media →](https://petrspecian.com/talks.html#conference-talks)
+
+June 2026 · Keynote
+
+### AI Is Here. What Now?
+
+Opening keynote of the Učím na Ostravské festival, University of Ostrava, on what universities should do now that students use AI daily. In Czech.
+
+[Festival report →](https://alive.osu.cz/festival-ucim-na-ostravske-otevrel-debatu-o-ai-vyuce-i-budoucnosti-vysokych-skol/) · [Talks and media →](https://petrspecian.com/talks.html)
+
+---
+
+<!-- https://petrspecian.com/about.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# About
+
+I am an interdisciplinary academic with a background in economics, philosophy, and political theory. My research focuses on **epistemic democratization**, the relationship between **democracy and expertise**, and the transformative potential of **generative artificial intelligence** for political institutions, social-science research, and higher education.
+
+I am an Assistant Professor in the Department of Political Science at the Institute of Political Studies, Faculty of Social Sciences, Charles University. I serve as the Coordinator for Studies at the [Politics, Philosophy and Economics programme](https://studyppe.com/), an international bachelor’s programme of roughly 300 students, and my research sits under the heading of AI institutional transformation.
+
+My work combines conceptual analysis with institutional design. I am particularly interested in technologies that expand access to expertise, accelerate experimentation, and make complex organizations more adaptive, while remaining attentive to legitimacy, inequality, accountability, and human autonomy.
+
+I teach and speak in Czech and English.
+
+### Education
+
+**Ph.D., Economic Theory** (2010–2013). Prague University of Economics and Business, Faculty of Economics. Dissertation: *Phenomenology and Economics*, supervised by doc. Ján Pavlík.
+
+**Bc., Humanities** with distinction (2007–2011). Charles University, Faculty of Humanities.
+
+**Ing., International Trade** with distinction (2007–2009). Prague University of Economics and Business, Faculty of International Relations. Minor specialization: philosophy.
+
+**Bc., International Trade** (2004–2007). Prague University of Economics and Business, Faculty of International Relations.
+
+### Research fellowships
+
+**Central European University**, Vienna (February–July 2021). Research visit to the Department of Philosophy, hosted by Andres Moles.
+
+**University of Helsinki** (August–September 2014). Research visit to the Academy of Finland Centre of Excellence in the Philosophy of the Social Sciences (TINT).
+
+**George Mason University**, Fairfax VA (August–September 2013). Research visit to the Department of Economics.
+
+### Research interests
+
+- Generative AI and democratic institutions
+- Democracy, expertise, and epistemic authority
+- Institutional adaptation to technological shocks
+- AI in higher education
+- Behavioral political economy and paternalism
+- Futures studies and progress studies
+
+### Current roles
+
+- Assistant Professor, Faculty of Social Sciences, Charles University
+- Coordinator for Studies, PPE Prague
+- Research programme: AI institutional transformation
+
+### Persistent identifiers
+
+- [ORCID 0000-0003-2702-0354](https://orcid.org/0000-0003-2702-0354)
+- [Google Scholar](https://scholar.google.cz/citations?user=iYTXP5oAAAAJ)
+- [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=55200307800)
+- [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/I-3429-2017)
+
+### Profiles
+
+- [Charles University](https://fsv.cuni.cz/en/contacts/people/22729867)
+- [PhilPeople](https://philpeople.org/profiles/petr-specian)
+- [ResearchGate](https://www.researchgate.net/profile/Petr-Specian)
+- [LinkedIn](https://www.linkedin.com/in/pspecian/)
+
+---
+
+<!-- https://petrspecian.com/research.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Research
+
+My research draws upon my background in economics, philosophy, and political theory, focusing on the impacts of generative AI on political and educational institutions. My main interest lies in seeking ways to expedite institutional adaptation to technological shocks and improve the robustness and performance of our key institutional infrastructure.
+
+## Current work
+
+### Universities and AI
+
+As AI systems increasingly mediate research, teaching, and academic decision-making, I investigate how universities can harness AI’s benefits while preserving the human epistemic agency essential to democratic societies.
+
+Universities’ vulnerability to generative AI stems from their reliance on student-made artifacts as proxies for learning. Bundling the authentication of student performance with its quantitative evaluation is no longer sustainable within the university. The paper proposes a New Deal Model that gives up in-house grades and focuses instead on documenting the student’s journey: a machine-readable portfolio, sealed by the university and owned by the student.
+
+[Built for Humans Only? (working paper)](https://petrspecian.com/publications/built-for-humans-only.html)
+
+### AI and democracy
+
+Large language models, capable of analyzing vast amounts of text and generating human-like responses to users’ prompts, could impact democracy significantly. They can access more information than human experts and tailor their findings to individuals’ needs. Their use could broaden access to expert knowledge and make it more exploitable by democratic assemblies. However, LLMs ‘hallucinate,’ producing mistaken claims with no hint of uncertainty. Their algorithms are opaque, hindering correction of errors or undesirable behaviors. Their control by a handful of private companies is also problematic.
+
+May LLMs still enhance democracy? I study the ways in which democracies could harness the increasingly capable AI expert systems to tackle the complex challenges of the 21st century. A companion paper on Universal Basic AI Access asks who gets to use these systems in the first place.
+
+[Machine Advisors (Social Epistemology)](https://petrspecian.com/publications/machine-advisors.html) · [Universal Basic AI Access (Acta Informatica Pragensia)](https://petrspecian.com/publications/universal-basic-ai-access.html)
+
+### Generative agents for institutional experimentation
+
+Democracy research is slow, expensive, hard to scale, and ethically constrained, which means promising institutional designs go untested. Generative agents simulating human behaviour in social settings offer a way around that bottleneck, at the cost of new methodological problems: algorithmic bias, reproducibility, and the difficulty of validating synthetic agents against the very phenomena under study.
+
+This line of work grows out of an earlier proposal for a digital playground for democracy: an artificial world where institutional mechanisms can be tested and compete against each other, allowing for transparency, easy participation, and the calibration of risk.
+
+[Digital Homunculi (preprint)](https://doi.org/10.48550/arXiv.2409.00826) · [A Case for Democracy’s Digital Playground (essay)](https://theloop.ecpr.eu/a-case-for-democracys-digital-playground/)
+
+### AI proxies and intergenerational governance
+
+The rich and powerful have always strived to shape their legacy and steer the use of their resources even after their departure via ‘dead-hand devices,’ such as dynasty trusts. Compared to real-time control, these remained crude and passive. Today, agentic AI proxies which can be active, strategic, and adaptive may turn inheritance dynamics from a niche legal concern into a core problem for democratic self-governance. Democratic institutions presume that the living hold a monopoly on economic and political power. As such, they are ill-prepared for the growing influence of the dead, who are both agentic via their proxies and non-responsive, having already departed this world.
+
+Joint work with Lucy Císař Brown, first presented at the European PPE Network Conference in Bayreuth in July 2026. A chapter and an article are in preparation.
+
+[Speakers for the Dead (talk)](https://petrspecian.com/talks.html#conference-talks)
+
+## Funded projects
+
+**Look Who’s Talking? Pragmatics and Ethics of Large Language Models in Democracy**
+
+Czech Science Foundation · Team member · 2024–2026
+
+Principal investigator: Miroslav Vacura. Team: Petr Špecián, Eugenia Stamboliev. [Project website](https://llm4dem.vse.cz/)
+
+Abstract
+
+The rapid pace of technological innovation challenges established knowledge-production and dissemination structures. We propose a philosophical investigation of Large Language Models (LLMs) and their impact on democratic societies. Capable of generating vast quantities of human-like text, LLMs are likely to have significant epistemic effects. Our research question is: What epistemic effects can be expected of LLMs in democratic settings, and how can we improve the odds that this technology will serve democracy rather than harm it? We focus on three areas: (1) LLMs’ impact on democratic discourse; (2) their implications for the epistemic authority of expertise and legitimacy of democratic institutions; and (3) the ethical responsibilities of governmental bodies and citizens in shaping and using LLMs.
+
+**Perspectives of Paternalism in a Democratic Society: Lessons from Behavioral Sciences for Political Philosophy**
+
+Czech Science Foundation · Principal investigator · 2019–2023
+
+Co-investigators: Filip Tvrdý (2019–2022), Petra Chudárková (2022–2023).
+
+Abstract
+
+The project focused on the implications for political philosophy that result from the growing amount of evidence documenting systematic deviations of people’s choices from instrumentally rational behavior. This evidence challenges the assumption that people, as consumers and voters, can be expected to act in their own best interest. The project examined the proposals based on epistemic paternalism and libertarian paternalism, contributing to the debate on whether and to what extent these proposals possess the potential to support the long-term sustainability of liberal democratic institutions or to harm it. It explored the opportunities to use paternalist measures to reduce the risk of spreading of dangerous memes, such as conspiracy theories, but also the threats that follow from potential abuse of these same measures by authorities who could exploit limited rationality to pursue their self-interested ends.
+
+**Media and the Selection of Experts**
+
+IREF · Co-investigator · 2021–2022
+
+Investigators: Marek Hudík and Petr Špecián.
+
+Abstract
+
+The project addressed the media filtering of experts. We consider a media firm that asks experts to assess if a given problem is major or minor so it can report the type of the problem. The media firm decides between generalist and specialist experts. We analyze how equilibria depend on the media search costs and the probability that the true state ultimately reveals itself to the public, and aim to demonstrate that this revelation probability is the critical determinant of the accuracy of the reported expert testimony.
+
+**Behaviorally Informed Paternalism and Democratic Values**
+
+AKTION Austria–Czech Republic · Fellowship · 2021
+
+Abstract
+
+The project researched the philosophical implications of the expanding evidence that people’s choices deviate from instrumentally rational behavior in a systematic manner. The aim was to examine the compatibility of paternalist proposals with the democratic idea of individual normative sovereignty, i.e., with the commitment to accept individual value judgements incorporated in political choices as binding.
+
+## Collaboration
+
+I work with **Lucy Císař Brown** on the epistemic and social consequences of LLMs, including our joint work on AI oracles and on machine versus human expertise. I am glad to hear from researchers working on institutional adaptation to AI, particularly from outside political science.
+
+[Get in touch](https://petrspecian.com/contact.html)
+
+---
+
+<!-- https://petrspecian.com/publications.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+## Selected work
+
+Book · 2022
+
+### [Behavioral Political Economy and Democratic Theory](https://petrspecian.com/publications/book.html)
+
+Examines the friction between modern technology and human rationality within liberal democracies, and advocates a behaviorally grounded theory of democracy for the digital age.
+
+Routledge · 2022
+
+[DOI](https://doi.org/10.4324/9781003274988) · [Publisher page](https://www.routledge.com/Behavioral-Political-Economy-and-Democratic-Theory-Fortifying-Democracy/Specian/p/book/9781032229737)
+
+Journal article · 2026 · Open access
+
+### [Machine Advisors: Integrating Large Language Models Into Democratic Assemblies](https://petrspecian.com/publications/machine-advisors.html)
+
+Examines the integration of large language models into democratic assemblies: the promise of broader access to expert knowledge, and the risks posed by hallucination, opacity, and private control.
+
+*Social Epistemology* 40(3), 393–408
+
+[DOI](https://doi.org/10.1080/02691728.2024.2379271) · [Full text](https://www.tandfonline.com/doi/pdf/10.1080/02691728.2024.2379271)
+
+Journal article · 2025 · Open access
+
+### [Universal Basic AI Access: Countering the Digital Divide](https://petrspecian.com/publications/universal-basic-ai-access.html)
+
+A policy proposal for countering emerging digital divides in access to frontier generative AI.
+
+*Acta Informatica Pragensia* 14(2), 272–281
+
+[DOI](https://doi.org/10.18267/j.aip.270) · [Full text](https://aip.vse.cz/doi/10.18267/j.aip.270.pdf)
+
+Working paper · 2026 · Open access
+
+### [Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal](https://petrspecian.com/publications/built-for-humans-only.html)
+
+Argues that bundling the authentication of student performance with its quantitative evaluation is no longer sustainable under generative AI, and proposes a New Deal Model built on student-owned, machine-readable portfolios.
+
+SSRN working paper · 2026
+
+[DOI](https://doi.org/10.2139/ssrn.7258922) · [Full text](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7258922)
+
+Working paper · 2026 · Open access
+
+### [Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck](https://petrspecian.com/publications/digital-homunculi.html)
+
+Proposes generative agents as a way around the experimentation bottleneck in democracy research, and examines the methodological challenges involved.
+
+arXiv:2409.00826
+
+[DOI](https://doi.org/10.48550/arXiv.2409.00826) · [Full text](https://arxiv.org/abs/2409.00826)
+
+## Book
+
+Špecián, Petr. 2022. *Behavioral Political Economy and Democratic Theory: Fortifying Democracy for the Digital Age*. Routledge Frontiers of Political Economy. New York: Routledge. [DOI](https://doi.org/10.4324/9781003274988) · [Publisher page](https://www.routledge.com/Behavioral-Political-Economy-and-Democratic-Theory-Fortifying-Democracy/Specian/p/book/9781032229737) · [Overview](https://petrspecian.com/publications/book.html)
+
+## Journal articles
+
+Špecián, Petr. 2026. “Machine Advisors: Integrating Large Language Models Into Democratic Assemblies.” *Social Epistemology* 40(3): 393–408. Published online 2024. [DOI](https://doi.org/10.1080/02691728.2024.2379271) · [Full text](https://www.tandfonline.com/doi/pdf/10.1080/02691728.2024.2379271) · [Overview](https://petrspecian.com/publications/machine-advisors.html)
+
+Špecián, Petr, and Jitka Špeciánová. 2025. “Universal Basic AI Access: Countering the Digital Divide.” *Acta Informatica Pragensia* 14(2): 272–281. [DOI](https://doi.org/10.18267/j.aip.270) · [Full text](https://aip.vse.cz/doi/10.18267/j.aip.270.pdf) · [Overview](https://petrspecian.com/publications/universal-basic-ai-access.html)
+
+Špecián, Petr, and Lucy Císař Brown. 2025. “Give the machine a chance, human experts ain’t that great…” *AI & Society* 40(2): 1155–1156. Published online 2024. [DOI](https://doi.org/10.1007/s00146-024-01910-6) · [Full text](https://link.springer.com/content/pdf/10.1007/s00146-024-01910-6.pdf) · [Overview](https://petrspecian.com/publications/give-the-machine-a-chance.html)
+
+Špecián, Petr. 2022. “The Myth of the Victim Public: Democracy Contra Disinformation.” *Filozofia* 77(10): 791–803. [DOI](https://doi.org/10.31577/filozofia.2022.77.10.4) · [Full text](https://www.sav.sk/journals/uploads/12202016filozofia.2022.77.10.4.pdf) · [Overview](https://petrspecian.com/publications/myth-of-the-victim-public.html)
+
+Špecián, Petr. 2022. “Shall Justice Prevail? Reforming the Epistemic Basic Structure in a Non-Ideal World.” *Social Epistemology Review and Reply Collective* 11(8): 75–83. [Read](https://wp.me/p1Bfg0-768)
+
+Špecián, Petr. 2022. “Epistemology and the Pandemic: Lessons from an Epistemic Crisis.” *Social Epistemology* 36(2): 167–179. [DOI](https://doi.org/10.1080/02691728.2021.2009931) · [Overview](https://petrspecian.com/publications/epistemology-and-the-pandemic.html)
+
+Špecián, Petr. 2019. “Phenomenological Perspectives on Economics: Schütz versus Düppe.” *Horizon: Studies in Phenomenology* 8(2): 613–631. [DOI](https://doi.org/10.21638/2226-5260-2019-8-2-613-631) · [Overview](https://petrspecian.com/publications/phenomenological-perspectives-on-economics.html)
+
+Špecián, Petr. 2019. “The Precarious Case of the True Preferences.” *Society* 56(3): 267–272. [DOI](https://doi.org/10.1007/s12115-019-00363-8)
+
+Špecián, Petr. 2017. “Ekonomická analýza referenda \[An Economic Analysis of a Referendum\].” *Politická ekonomie* 65(4): 460–475. [DOI](https://doi.org/10.18267/j.polek.1155) · [Full text](https://www.vse.cz/polek/download.php?lang=cs&jnl=polek&pdf=1155.pdf) · [Overview](https://petrspecian.com/publications/economic-analysis-of-a-referendum.html)
+
+Špecián, Petr. 2016. “Konec se blíží? Kritické připomínky k teorii kolapsů \[The End Is Near? Critical Remarks on the Theory of Collapse\].” *Teorie vědy / Theory of Science* 38(4): 425–448. [DOI](https://doi.org/10.46938/tv.2016.350) · [Full text](https://teorievedy.flu.cas.cz/index.php/tv/article/download/350/384) · [Overview](https://petrspecian.com/publications/theory-of-collapse.html)
+
+Špecián, Petr. 2015. “Potřebuje ekonomie psychologii? \[Does Economics Need Psychology?\].” *Teorie vědy / Theory of Science* 37(3): 279–301. [DOI](https://doi.org/10.46938/tv.2015.264) · [Full text](https://teorievedy.flu.cas.cz/index.php/tv/article/download/264/331)
+
+Melzochová, Jitka, and Petr Špecián. 2015. “An Estimate of the Basic Income Costs: Case of the Czech Republic.” *Procedia Economics and Finance* 30: 550–557. [DOI](https://doi.org/10.1016/S2212-5671(15)01267-8) · [Overview](https://petrspecian.com/publications/basic-income-costs-czech-republic.html)
+
+Špecián, Petr. 2014. “Phenomenology and Economics.” *Erasmus Journal for Philosophy and Economics* 7(1): 161–165. [DOI](https://doi.org/10.23941/ejpe.v7i1.164) · [Full text](https://ejpe.org/journal/article/download/164/158)
+
+Špecián, Petr. 2012. “Od Misese k Schutzovi: Otázka apriorismu v ekonomii \[From Mises to Schutz: A Question of Apriorism in Economics\].” *Politická ekonomie* 60(3): 395–410. [DOI](https://doi.org/10.18267/j.polek.848)
+
+Špecián, Petr. 2012. “Svět a věda u Ludwiga von Misese \[World and Science in Ludwig von Mises\].” *Filozofia* 67(4): 335–346. [Read](https://philarchive.org/rec/PECSAV)
+
+## Chapters
+
+Špeciánová, Jitka, and Petr Špecián. 2024. “Umělá inteligence na trzích práce \[Artificial Intelligence in Labor Markets\].” In *Proč se nebát umělé inteligence?*, 229–240. Brno: JOTA.
+
+Špecián, Petr. 2022. “Democracy and Anthropic Risk.” In *Green Marble 2022: Studies on the Anthropocene and Ecocriticism*, 215–226. Institute for Anthropocene Studies. [Volume DOI](https://doi.org/10.21814/1822.81362)
+
+Špecián, Petr, and Marek Hudík. 2021. “O expertech a lidech: Spasitelské lhaní v časech pandemie \[Of Experts and Men: White Lies in the Time of a Pandemic\].” In *Dedičstvo koronakrízy: Ako lepšie zvládnuť ďalšiu pandémiu*, 53–74. Bratislava: INESS.
+
+## Preprints and working papers
+
+Špecián, Petr. 2026. “Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal.” SSRN working paper. [DOI](https://doi.org/10.2139/ssrn.7258922) · [Full text](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7258922) · [Overview](https://petrspecian.com/publications/built-for-humans-only.html)
+
+Špecián, Petr. 2026. “Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck.” arXiv:2409.00826. [DOI](https://doi.org/10.48550/arXiv.2409.00826) · [Full text](https://arxiv.org/abs/2409.00826) · [Overview](https://petrspecian.com/publications/digital-homunculi.html)
+
+## Public writing
+
+Špecián, Petr. 2023. “A Case for Democracy’s Digital Playground.” The Loop, ECPR. [Read](https://theloop.ecpr.eu/a-case-for-democracys-digital-playground/)
+
+Špecián, Petr. 2022. “Science of Democracy and the Owl of Minerva.” The Loop, ECPR. [Read](https://theloop.ecpr.eu/science-of-democracy-and-the-owl-of-minerva/)
+
+------------------------------------------------------------------------
+
+Citations for reference managers: [BibTeX](https://petrspecian.com/bib/publications.bib)
+
+---
+
+<!-- https://petrspecian.com/teaching.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Teaching
+
+I teach at the intersection of political science, economics, philosophy, and artificial intelligence, and I serve as the Coordinator for Studies at the [Politics, Philosophy and Economics programme](https://studyppe.com/) at the Faculty of Social Sciences.
+
+## Courses in 2026/27
+
+All courses are taught in English at the Faculty of Social Sciences, Charles University. Winter-semester courses first, then summer. Descriptions follow the course catalogue.
+
+### Politics, Philosophy and Economics of Artificial Intelligence
+
+This course looks at artificial intelligence as a social phenomenon. We look at it through the PPE lens, showing its political, philosophical, and economic relevance. The aim of the course is to (1) build conceptual understanding of AI in society, (2) develop empirically grounded situational awareness, and (3) gain hands-on experience with AI governance challenges.
+
+Compulsory for PPE · JPB064 · Winter semester · 6 ECTS
+
+[Course page in SIS](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=JPB064&skr=2026)
+
+### Reasoning and Decision-Making Methods
+
+This course builds practical skills for navigating complex and often adversarial information environments typical for the digital age. We will apply the lens of Bayesian epistemology and behavioral sciences and explore methods of practical reasoning, evidence evaluation and decision-making under uncertainty.
+
+The course connects to the current discussions of algorithmic mediation, synthetic media, or misinformation dynamics. We will hold a forecasting tournament, engage in calibration training, try reasoning alongside AI forecasters, and hold an epistemically virtuous debate tournament.
+
+The aim of the course is to help students develop the meta-cognitive skills necessary for developing their intellectual autonomy and accessory to quality decision-making.
+
+JPB286 · Winter semester · 6 ECTS
+
+[Course page in SIS](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=JPB286&skr=2026)
+
+### Introduction to Economics I
+
+This is an entry-level economics course. We will work together to build understanding of economic agents’ behavior, markets, and public policy. The course covers fundamental concepts such as scarcity, choice, supply and demand, market structures, externalities, and public goods. We will also tackle the questions of efficiency, equity, and justice. The goal is to equip students with the foundational tools and frameworks that enable analysis of (micro)economic issues while also recognizing the complexities of the interplay between economic, philosophical, and political dimensions of social phenomena.
+
+Compulsory for PPE · JPB097 · Winter semester · 6 ECTS
+
+[Course page in SIS](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=JPB097&skr=2026)
+
+### Introduction to Economics II
+
+The course focuses on macro-level economic phenomena. Students will deepen their economic knowledge, exploring the questions of economic growth, development, and the interplay between economic factors, institutions, and social reality. The course covers concepts such as national income accounting, macroeconomic aggregates, fiscal and monetary policies, and open economy. The students will master foundational macroeconomic concepts and examine basic macroeconomic problems, appreciating how economic factors mesh with political and other considerations to shape society. By the end of the course, students should be equipped with the tools and frameworks necessary for an elementary understanding of macroeconomic phenomena.
+
+Compulsory for PPE · JPB098 · Summer semester · 6 ECTS
+
+[Course page in SIS](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=JPB098&skr=2026)
+
+### Behavioral Political Economy
+
+This course examines the interplay between individual behavior, political institutions, and public policy through the lens of behavioral economics and social psychology. We will explore how psychological biases, heuristics, and cognitive limitations influence political decision-making processes, both on the side of voters and policymakers. We will critically assess the implications of these behavioral insights for the functioning of democratic institutions in the digital age, focusing especially on the challenges posed by misinformation, political polarization, and the rise of behaviorally informed governance.
+
+JPB287 · Summer semester · 6 ECTS
+
+[Course page in SIS](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=JPB287&skr=2026)
+
+### Progress Studies
+
+This course looks at the dynamics of human progress through an interdisciplinary lens. Students examine how scientific, technological, economic, and social advancement occurs, what barriers impede progress, and how we might overcome them in the 21st century. The course focuses both on theoretical understanding and practical application and aims to provide tools for systematic thinking about civilization’s trajectory and ways to achieve positive change.
+
+JPB063 · Summer semester · 6 ECTS
+
+[Course page in SIS](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=JPB063&skr=2026)
+
+## Also taught
+
+**AI and Society: Advanced Themes** (JPB288). A small-group advanced seminar for students who had completed PPE of AI, built around adversarial collaboration: students were assigned to steelman opposing positions on contested questions about AI and human life. Taught in 2025/26; no longer offered.
+
+## Teaching mobilities
+
+**Central European University**, Vienna (May 2026). A teaching week hosted by Andres Moles and Matteo Pascucci, with two sessions in the Ethics of AI course: one on intelligence, agency, and responsibility in the context of generative AI, one a scenario-mapping exercise in which students explored democratic futures under AI.
+
+**University of Oslo** (October 2025). Erasmus+ teaching mobility on generative AI in the context of a sustainable future, hosted by Henrik Skaug Sætra, emphasising the social and political impacts of AI.
+
+**Uniwersytet Jagielloński**, Krakow (May 2019). Erasmus+ teaching mobility to the Institute of Economics, Finance and Management.
+
+**Universidade do Porto** (April 2019). Erasmus+ teaching mobility to the Faculty of Economics.
+
+## Supervision
+
+I supervise bachelor’s theses in the PPE programme and co-teach the BA Thesis Seminars (JPB104, JPB105) with Jakub Franěk. Topics I supervise connect to AI governance, democratic theory, institutional design, and behavioral political economy. Prospective students are welcome to [get in touch](https://petrspecian.com/contact.html) with a short outline of the question they want to work on.
+
+---
+
+<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Talks and Media
+
+I speak regularly on AI and democracy, the future of universities, and institutional adaptation to technological change, in English and in Czech, for academic and general audiences.
+
+## Recorded talks and podcasts
+
+[![Petr Špecián on the Zákulisí sociologie podcast](https://petrspecian.com/assets/talks/ppGykCSrCqg.jpg) ](https://www.youtube.com/watch?v=ppGykCSrCqg)
+
+Podcast · Czech · 2024
+
+### AI Institutional Transformation Is on the Way
+
+Why chatbots deserve a chance alongside human experts, who is responsible for their outputs, and why institutional adoption is likely to continue. Zákulisí sociologie (Youradio Talk).
+
+[Watch](https://www.youtube.com/watch?v=ppGykCSrCqg) · [Listen on Spotify](https://open.spotify.com/episode/2xRRX4wSUDSa0Aw7lbOMUu)
+
+[![Title card of the lecture on democracy in the digital age at the Institute of Information Studies and Librarianship](https://petrspecian.com/assets/talks/yGGovIy_uT0.jpg) ](https://www.youtube.com/watch?v=yGGovIy_uT0)
+
+Lecture · Czech · 2024
+
+### GenAI-Facilitated Institutional Innovation
+
+How generative AI could help liberal democracies overcome bottlenecks in institutional experimentation. Invited lecture, Institute of Information Studies and Librarianship, Charles University.
+
+[Watch](https://www.youtube.com/watch?v=yGGovIy_uT0)
+
+[![Petr Špecián in conversation with Jakub Krejčí](https://petrspecian.com/assets/talks/FGPvuJr6v1M.jpg) ](https://www.youtube.com/watch?v=FGPvuJr6v1M)
+
+Interview · Czech · 2024
+
+### Expected Social Impacts of AI
+
+Technological unemployment, inequality, institutional change, and political life in the digital age. Interview with Jakub Krejčí, Language, Mind, Society Center.
+
+[Watch](https://www.youtube.com/watch?v=FGPvuJr6v1M)
+
+[![Petr Špecián lecturing at the Broumov summer school](https://petrspecian.com/assets/talks/xrqnDgZLrPg.jpg) ](https://www.youtube.com/watch?v=xrqnDgZLrPg)
+
+Lecture · Czech · 2023
+
+### Social Technologies of the Future
+
+Technology understood broadly, to include institutions such as capitalism and liberal democracy. Summer school lecture, University of Hradec Králové, Broumov.
+
+[Watch](https://www.youtube.com/watch?v=xrqnDgZLrPg)
+
+[![Petr Špecián speaking at the Být nebo bit? conference](https://petrspecian.com/assets/talks/PNogZ6i7jqo.jpg) ](https://www.youtube.com/watch?v=PNogZ6i7jqo)
+
+Lecture · Czech · 2022
+
+### Democracy in the Digital Age
+
+How social-media platforms and digital information environments shape citizens' political views. Být nebo bit? conference, Prague.
+
+[Watch](https://www.youtube.com/watch?v=PNogZ6i7jqo)
+
+[![Projected slide of the lecture on consumer and citizen sovereignty in Hradec Králové](https://petrspecian.com/assets/talks/gs88d8d_N8s.jpg) ](https://www.youtube.com/watch?v=gs88d8d_N8s)
+
+Lecture · Czech · 2019
+
+### Consumer and Citizen Sovereignty
+
+Individual normative sovereignty and the value liberal societies attach to people deciding for themselves. Invited lecture, University of Hradec Králové.
+
+[Watch](https://www.youtube.com/watch?v=gs88d8d_N8s)
+
+## Interviews
+
+**On AI trajectories in Czechia** (April 2025). Interview with Jan Čáp for *Téma* magazine on artificial intelligence in Czechia and prospects for the future; the online version was published by Technet. [Read](https://www.idnes.cz/technet/software/petr-specian-ai-umela-inteligence-budoucnost-vedec-chatbot.A250424_848837_software_krd) (Czech)
+
+## Keynotes and invited lectures
+
+**“Pravda nebo lež? Jak je libo!” \[Truth or Lie? Take Your Pick\]** Invited talk (16 July 2026), in Czech. STEM influencer brunch, Prague, Czechia.
+
+**“AI už je tady. Co teď?” \[AI Is Here. What Now?\]** Opening keynote (16 June 2026), in Czech. [Učím na Ostravské festival](https://alive.osu.cz/festival-ucim-na-ostravske-otevrel-debatu-o-ai-vyuce-i-budoucnosti-vysokych-skol/), University of Ostrava, Czechia.
+
+**“Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal”** (20 May 2026). POLEMO Seminar, Central European University, Vienna, Austria.
+
+**“Mental Health vs. Artificial Intelligence”** Guest seminar (13 May 2026). Ondřejov Day Psychotherapeutic Sanatorium, Prague, Czechia.
+
+**“Artificial Intelligence and the Future of Democracy: A Scenario Analysis”** Guest lecture (18 November 2025). Faculty of Arts, Charles University, Prague, Czechia.
+
+**“The Purpose of Higher Education in the 21st Century: What Educational Model Do We Need?”** Panel presentation (11 November 2025). Scio, Prague, Czechia.
+
+**“AI at Universities: From an Annoyance to a Basic Right”** Keynote (5 November 2025). [AI 4 Uni](https://prf.ujep.cz/cs/28860/ai-for-uni-program-registrace), Jan Evangelista Purkyně University, Ústí nad Labem, Czechia.
+
+**“Large Language Models in Democratic Society”** Invited lecture (9 September 2024). [AmKon](https://modelkongresu.cz/en/), Plzeň, Czechia.
+
+**“Generative AI and the Future of Tertiary Education”** Keynote (6 September 2024). [Conference on Educational Activities of Universities](https://msmt.gov.cz/vzdelavani/vysoke-skolstvi/dny-vzdelavaci-cinnosti-2024?lang=1), Prague, Czechia.
+
+**“Sustaining People’s Rule in the Digital Age”** Invited talk (17 November 2023). Meaning of Democracy Conference, [Polish Academy of Sciences, Scientific Centre in Vienna](https://vienna.pan.pl/), Austria.
+
+**“Democracy in the Digital Age”** Guest lecture (13 October 2022). [Center for Theoretical Study](http://www.cts.cuni.cz/), Czech Academy of Sciences, Prague.
+
+**“Suverenita spotřebitele a občana” \[Sovereignty of the Consumer and the Citizen\]** Invited lecture (20 February 2019). Centre for the Study of Language, Mind and Society, University of Hradec Králové, Czechia.
+
+**“Economics: From History to Theory and Back”** Invited talk (8 November 2017). Philosophy between Past and Future, Sungkyunkwan University, Seoul, South Korea.
+
+## Conference talks
+
+### 2026
+
+“Speakers for the Dead: AI Proxies and the Political Economy of Intergenerational Governance” (22 July 2026), with Lucy Císař Brown. European PPE Network Conference 2026, University of Bayreuth, Germany.
+
+### 2025
+
+“Built for Humans Only: On the Struggles of Institutional AI Adoption” (23 October 2025). [Technology and Sustainable Futures](https://www.mn.uio.no/ifi/english/research/groups/tsf/), University of Oslo, Norway.
+
+“Rethinking the Rules of the Game: Synthetic Data for Institutional Design” (18 September 2025). [17th Biennial INEM Conference](https://inem2025.sciencesconf.org/), Bayreuth, Germany.
+
+“Breaking the Experimentation Bottleneck: Generative Agents As Institutional Design Accelerators” (1 September 2025). [WINIR 2025](https://winir.org/winir-2025/), Prague, Czechia.
+
+“Digital Homunculi: Reimagining Democracy Research with Generative Agents” (17 July 2025). The PPE Society London’s First Annual Meeting, London, UK.
+
+“From Slop to Spark: Carving New Institutional Niches for Transformative Ideas” (12 June 2025). Technology and Sustainable Futures, Oslo, Norway.
+
+“AI Oracles: Technological Re-enchantment of the World” (8 February 2025), with Lucy Císař Brown. [What Comes After GenAI?](https://llm4dem.vse.cz/dd2025), Prague, Czechia.
+
+### 2024
+
+“AI Oracles” (19 September 2024), with Lucy Císař Brown. TEDA’24: The Magic Machine, Through the Prism of Art and Science, University of Cambridge, UK.
+
+“Beyond the Limits: Generative AI and Synthetic Data in Democracy Research” (13 August 2024). [ECPR General Conference 2024](https://ecpr.eu/GeneralConference), Dublin, Ireland.
+
+Author-meets-critics session on *Behavioral Political Economy and Democratic Theory* (31 May 2024). [7th International Conference Economic Philosophy](https://7philoeco.sciencesconf.org/?lang=en), Reims, France.
+
+“Generative AI in the Marketplace for Ideas” (30 May 2024). [7th International Conference Economic Philosophy](https://7philoeco.sciencesconf.org/?lang=en), Reims, France.
+
+### 2023
+
+“Reimagining Institutions through Generative AI: Navigating the Maze of Institutional Innovation” (28 October 2023). [Computing the Human](https://www.muni.cz/en/events-calendar/u/804408u-computing-the-human-call-for-paper), Brno, Czechia.
+
+“Sociální technologie budoucnosti \[Social Technologies of the Future\]” (29 September 2023). Summer school, University of Hradec Králové, Broumov, Czechia.
+
+“Democratizing Expertise: The Limits and Possibilities of Artificial Intelligence in Enhancing Democratic Decision-Making” (8 September 2023). ECPR General Conference 2023, Prague, Czechia.
+
+“Large Language Models for Democracy: Limits and Possibilities” (16 June 2023). Technology and Sustainable Development 2023, Østfold University College, Norway.
+
+“LLMs for Democracy” (19 May 2023). [Fortifying Democracy for the Digital Age: Interdisciplinary Perspectives](https://kfil.vse.cz/english/homepage/science-and-research/conferences-and-workshops/fortifying-democracy-for-the-digital-age/), Prague, Czechia.
+
+### 2022
+
+“Science and Trust in the Digital Age” (22 October 2022). [Scientific Knowledge and Its Public Understanding: Interdisciplinary Perspectives](https://publicunderstandingofscience.weebly.com), Seville, Spain.
+
+“The Specter of Political Irrationality and the Anti-Psychological State” (19 August 2022). Truth and Politics: A Political Epistemology Conference, Bamberg, Germany.
+
+“Democracy and Anthropic Risk” (2 July 2022). Panel “Risks in the Anthropocene”, [Green Marble 2022](https://greenmarble2022en.weebly.com), Porto, Portugal.
+
+“Demokracie v digitálním věku \[Democracy in the Digital Age\]” (3 June 2022). Být nebo bit?, Prague, Czechia.
+
+### 2021
+
+“The Conceit of Behaviorally Informed Paternalism” (22 October 2021). Perspectives of Paternalism in a Democratic Society, online.
+
+“Oběti či oportunisté? Racionalita ve světle diskuse o dezinformacích \[Victims or Opportunists? Rationality in the Light of the Debate on Disinformation\]” (30 September 2021). Hradecké filozofické dny, Hradec Králové, Czechia.
+
+“Pandemická epistemologie: Lekce z pandemické krize \[Pandemic Epistemology: Lessons from an Epistemic Crisis\]” (16 September 2021). XXV. česko-slovenské sympózium o analytickej filozofii, Banská Bystrica, Slovakia.
+
+“Economists in the Democratic Discourse” (25 June 2021). 5th International Economic Philosophy Conference, online.
+
+“Economists in the Democratic Discourse: Between Elitism and Egalitarianism” (20 June 2021). 11th MetaLawEcon Workshop, online.
+
+“Fake News and the Victim Narrative” (7 March 2021). ENPOSS/ANPOSS/POSS-RT 2021 Joint Conference, online.
+
+### 2017–2019
+
+“The Will to Believe: Demand for Bullshit in a Post-Truth World” (29 November 2019). CaL2019: Cognition and Lying, Brno, Czechia.
+
+“Thou Shalt Not Nudge: Towards an Anti-Psychological State” (21 August 2019). 14th Conference of the International Network for Economic Method, Helsinki, Finland.
+
+“Thou Shalt Not Nudge: Towards an Anti-Psychological State” (7 August 2019). 16th International Congress on Logic, Methodology and Philosophy of Science and Technology, Prague, Czechia.
+
+“Normativity Shifting: Nudging and Sovereignty” (28 June 2018). 4th International Conference Economic Philosophy, Lyon, France.
+
+## Organized conferences and events
+
+[**What Comes After GenAI? Exploring the Limits of One-Size-Fits-All AI for Democracy and Knowledge**](https://llm4dem.vse.cz/dd2025). Prague University of Economics and Business, 7–8 February 2025. With Mirek Vacura and Eugenia Stamboliev.
+
+**AI Futures Workshop**. Faculty of Social Sciences, Charles University, 2 June 2025. Closed expert workshop on AI development scenarios, with participants from academia, České priority, Effective Altruism Czech Republic, and the Confido Institute.
+
+**Workshop on AI from the Perspective of the Social Sciences and Humanities**. Charles University, November 2023.
+
+[**Fortifying Democracy for the Digital Age: Interdisciplinary Perspectives**](https://kfil.vse.cz/english/homepage/science-and-research/conferences-and-workshops/fortifying-democracy-for-the-digital-age/). International conference, Prague University of Economics and Business, 18–20 May 2023.
+
+**Perspectives of Paternalism in a Democratic Society**. International conference, online, 22–23 October 2021.
+
+**Současná filosofie vědy \[The Current Philosophy of Science\]**. Prague University of Economics and Business, 14 September 2018.
+
+Member of the organizing committee, [The Society for Cognitive Science and Philosophy](http://www.cognitivescience.cz), 2012–2019.
+
+---
+
+<!-- https://petrspecian.com/writing.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Writing
+
+Occasional essays on democracy, expertise, and technological change, written for a broader audience.
+
+The Loop · 2023
+
+### A Case for Democracy’s Digital Playground
+
+Democratic institutions need protected spaces for experimentation if they are to adapt to the pressures of the digital age. The essay outlines an artificial world where institutional mechanisms can compete, fail cheaply, and improve, starting with small-scale educational applications.
+
+[Read at The Loop](https://theloop.ecpr.eu/a-case-for-democracys-digital-playground/)
+
+The Loop · 2022
+
+### Science of Democracy and the Owl of Minerva
+
+Why the scientific understanding of democracy matters most when its established assumptions come under strain.
+
+[Read at The Loop](https://theloop.ecpr.eu/science-of-democracy-and-the-owl-of-minerva/)
+
+For the academic record, including full texts where they are open, see [Publications](https://petrspecian.com/publications.html).
+
+---
+
+<!-- https://petrspecian.com/contact.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+## Get in touch
+
+For research collaboration, invited talks, teaching exchanges, podcasts, interviews, or questions about my work, email me at <petr.specian@fsv.cuni.cz>.
+
+**Petr Špecián, Ph.D.** Department of Political Science Faculty of Social Sciences, Charles University U Kříže 8 158 00 Prague 5 – Jinonice Czechia
+
+[Send an email](mailto:petr.specian@fsv.cuni.cz)
+
+### PPE students and applicants
+
+If your question concerns the Politics, Philosophy and Economics programme, start with the [programme website](https://studyppe.com/), which answers most admissions and study questions faster than I can. Thesis supervision enquiries are welcome by email with a short outline of your question; see [Teaching](https://petrspecian.com/teaching.html#supervision).
+
+### Speaking
+
+I speak in English and Czech on AI and democracy, the future of universities, and institutional adaptation to technological change, for academic and general audiences. See [Talks & Media](https://petrspecian.com/talks.html) for the track record.
+
+### Follow my work
+
+- [Charles University profile](https://fsv.cuni.cz/en/contacts/people/22729867)
+- [ORCID](https://orcid.org/0000-0003-2702-0354)
+- [Google Scholar](https://scholar.google.cz/citations?user=iYTXP5oAAAAJ)
+- [PhilPeople](https://philpeople.org/profiles/petr-specian)
+- [ResearchGate](https://www.researchgate.net/profile/Petr-Specian)
+- [LinkedIn](https://www.linkedin.com/in/pspecian/)
+
+---
+
+<!-- https://petrspecian.com/publications/basic-income-costs-czech-republic.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# An Estimate of the Basic Income Costs: Case of the Czech Republic
+
+*Procedia Economics and Finance* 30, 550–557 · Open access
+
+## Abstract
+
+The paper examines existing basic income proposals and estimates the costs of their implementation within the Czech Republic. The specific virtues and vices of a basic income guarantee compared to existing social security systems are discussed and the specific context of the Czech Republic considered. The paper provides elementary cost estimates of application of basic income schemes that were proposed originally for other European countries, Spain and Ireland. The cost of the present social security system as well as an extreme “libertarian” basic income scheme provide benchmarks for the preliminary evaluation of the financial feasibility of basic income for the Czech Republic.
+
+Basic income · Social security · Czech Republic · Public finance
+
+## Citation
+
+Melzochová, Jitka, and Petr Špecián. 2015. “An Estimate of the Basic Income Costs: Case of the Czech Republic.” *Procedia Economics and Finance* 30: 550–557.
+
+<https://doi.org/10.1016/S2212-5671(15)01267-8>
+
+[Read the full text](https://doi.org/10.1016/S2212-5671(15)01267-8)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/book.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Behavioral Political Economy and Democratic Theory
+
+Routledge · 2022
+
+Examines the friction between modern technology and human rationality within liberal democracies, and advocates a behaviorally grounded theory of democracy for the digital age.
+
+## Abstract
+
+Behavioral Political Economy and Democratic Theory examines the friction between modern technology and human rationality within liberal democracies. As we move further into a digitally-driven information age, challenges such as disinformation and extreme political polarization become more prominent. Using a behavioral economics approach, the book explores solutions to these issues while maintaining democratic values and optimizing democratic decision-making. It advocates for a behaviorally grounded theory of democracy and discusses how our understanding of human rationality’s limitations can help shape robust democratic institutions.
+
+## Citation
+
+Špecián, Petr. 2022. *Behavioral Political Economy and Democratic Theory: Fortifying Democracy for the Digital Age*. Routledge Frontiers of Political Economy. New York: Routledge.
+
+<https://doi.org/10.4324/9781003274988>
+
+[Publisher page](https://www.routledge.com/Behavioral-Political-Economy-and-Democratic-Theory-Fortifying-Democracy/Specian/p/book/9781032229737) [DOI](https://doi.org/10.4324/9781003274988)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/built-for-humans-only.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal
+
+SSRN working paper · 2026 · Open access
+
+Argues that bundling the authentication of student performance with its quantitative evaluation is no longer sustainable under generative AI, and proposes a New Deal Model built on student-owned, machine-readable portfolios.
+
+## Abstract
+
+This paper analyzes the deep structural mismatch between generative AI (GenAI) and the organizational logic of higher education through the lens of institutional economics and organization theory. GenAI defies the traditional worker-or-tool binary assumed by legacy organizational processes, while universities’ vulnerability stems from their reliance on student-made artifacts as proxies for learning and their hesitancy to embrace decisive adaptation efforts that would upset their internal consensus. Endogenous institutional change thus pushes toward marginal patches, especially the addition of layers of new rules while the institutional foundations drift underneath. The paper argues that patching triggers a provenance-verification arms race associated with surveillance creep and pedagogical regression while still failing to restore confidence in legacy assessment practices. Exploring radical alternatives to the standing university model, the paper finds both complete GenAI rejection and its wholesale embrace lacking as mainstream replacements. Its main takeaway from this analysis is that bundling the authentication of student performance with its quantitative evaluation is no longer sustainable within the university. In response, the paper proposes a New Deal Model, which gives up in-house quantitative evaluation (i.e., grades) and focuses instead on documenting the student’s journey. The result is an extensive, machine-readable portfolio, sealed by the university, owned by the student, and unlocked with the student’s consent for downstream gatekeepers, who query it using their own GenAI systems in light of the specific opportunities they offer. Process documentation and a shift toward mentoring-heavy tutelage mitigate concerns about cheating and fabrication. The New Deal Model preserves the community aspect of higher education and the marriage of teaching, research, and public epistemic authority while increasing institutional GenAI compatibility and future-proofness: as GenAI advances, thin, grade-based datasets depreciate while thick, data-rich portfolios appreciate. The paper charts a gradual transition path in which portfolios temporarily run in parallel with legacy grading. Such a transition allows a side-by-side test of the paper’s central bet, namely, that GenAI evaluation of authenticated process records will predict real-world performance better than current grade-based assessment does.
+
+Generative AI · Higher education · Institutional economics · Assessment · Organization theory · Institutional change
+
+## Citation
+
+Špecián, Petr. 2026. “Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal.” SSRN working paper.
+
+<https://doi.org/10.2139/ssrn.7258922>
+
+[Read the full text](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7258922) [DOI](https://doi.org/10.2139/ssrn.7258922)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/digital-homunculi.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck
+
+arXiv:2409.00826 · Open access
+
+Proposes generative agents as a way around the experimentation bottleneck in democracy research, and examines the methodological challenges involved.
+
+## Abstract
+
+Democracy research faces a longstanding experimentation bottleneck. Potential institutional innovations remain untested because human-subject studies are slow, expensive, and ethically fraught. This paper argues that digital homunculi, that is, GenAI-powered agents role-playing humans in diverse institutional settings, could offer a way to break through the bottleneck. In contrast to the legacy agent-based modeling, building complexity from transparent simple rules, the digital homunculi methodology aims to extract latent human behavioral knowledge from opaque large language models. To this ends, it designs multi-agent interactions as elicitation devices to trigger in LLMs human-like behavior that can be recorded as synthetic data. However, the validity of synthetic data remains an open question. Success requires that accurate, coherent, transferable models of humans (‘little humans’, homunculi) already lurk within GenAI’s inscrutable matrices and can be lured out via the social simulation role-play exercise. At the same time, to the extent these attempts are successful, they promise to completely transform the political economy of institutional research from scarcity to abundance. To help mitigate the number of challenges along the way to such success, I propose concrete validation strategies including behavioral back-testing via knowledge cutoffs, and outline infrastructure requirements for rigorous evaluation. The stakes are high: legacy democratic institutions develop at much slower pace than the surrounding technological landscape. If they falter, we lack a repository of tested backup alternatives. Breaking through the experimentation bottleneck must be a priority and digital homunculi may be quickly maturing into a methodology capable of achieving this feat.
+
+Generative agents · Large language models · Democracy research · Synthetic data · Institutional design · Agent-based modeling
+
+## Citation
+
+Špecián, Petr. 2026. “Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck.” arXiv:2409.00826.
+
+<https://doi.org/10.48550/arXiv.2409.00826>
+
+[Read on arXiv](https://arxiv.org/abs/2409.00826) [DOI](https://doi.org/10.48550/arXiv.2409.00826)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/economic-analysis-of-a-referendum.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Ekonomická analýza referenda
+
+*Politická ekonomie* 65(4), 460–475 · In Czech · Open access
+
+## Abstract
+
+The paper synthesizes the current literature regarding information aggregation, voter competence, voting paradox and behavioral economics in order to answer the question whether the phenomenon of “wisdom of the crowds” can be reasonably relied upon during a referendum. Review of the ‘wisdom of the crowds’ research reveals two key assumptions: voter competence and voter independence. Although direct testing of the actual fulfillment of these assumptions in a real-world setting is not possible, both empirical literature on voting behavior and rational choice theory provide ample ground for skepticism in this regard. Low level of knowledge together with unmitigated influence of systematic biases is expected to dominate the actual voting behavior. Affect heuristic is used as an example to illustrate this point. The paper concludes that referendum does not seem to be a reliable way to revealing preferences regarding various social issues.
+
+Referendum · Wisdom of the crowds · Voter competence · Behavioral economics · Affect heuristic
+
+## Citation
+
+Špecián, Petr. 2017. “Ekonomická analýza referenda \[An Economic Analysis of a Referendum\].” *Politická ekonomie* 65(4): 460–475.
+
+<https://doi.org/10.18267/j.polek.1155>
+
+[Read the full text](https://www.vse.cz/polek/download.php?lang=cs&jnl=polek&pdf=1155.pdf) [Publisher version (DOI)](https://doi.org/10.18267/j.polek.1155)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/epistemology-and-the-pandemic.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Epistemology and the Pandemic: Lessons from an Epistemic Crisis
+
+*Social Epistemology* 36(2), 167–179
+
+## Abstract
+
+Many democratic countries have failed to stand up to the challenge presented by the COVID-19 pandemic. I argue that the collective response to the pandemic has been incapacitated by an ‘epistemic crisis’, (i.e., a breakdown in the social division of epistemic labor) that led to a failure of citizens’ beliefs to converge towards a shared perception of the situation. Neither a paucity of relevant expert knowledge nor democratic citizens’ irrationality is required for the crisis to emerge. In particular, I highlight three obstacles capable of preventing relevant expert testimony from gaining democratic legitimacy necessary for an effective policy response: 1) the proper domain of expertise is uncertain; 2) regular citizens’ meta-expertise (i.e., ability to discriminate among the putative experts based on their relative epistemic merit) is not efficacious enough to trigger truth-convergence of the public opinion; 3) the prominent sources of third-party meta-expertise lack credibility due to their conflicts of interest. Since the first two problems appear irresolvable, I propose that the search for a path towards preclusion of future epistemic crises concentrates on upgrading the institutional fundament for meta-expertise provision. Social epistemology plays a vital role in this search, but its close cooperation with other disciplines is a must.
+
+COVID-19 · Epistemic crisis · Expertise · Meta-expertise · Social epistemology · Democracy
+
+## Citation
+
+Špecián, Petr. 2022. “Epistemology and the Pandemic: Lessons from an Epistemic Crisis.” *Social Epistemology* 36(2): 167–179.
+
+<https://doi.org/10.1080/02691728.2021.2009931>
+
+[Publisher version (DOI)](https://doi.org/10.1080/02691728.2021.2009931)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/give-the-machine-a-chance.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Give the machine a chance, human experts ain’t that great…
+
+*AI & Society* 40(2), 1155–1156 · first published online 2024 · Free to read
+
+Argues that the policy-relevant comparison is between LLMs and real human expertise, with its biases and conflicts of interest, rather than an idealized version of it.
+
+## Citation
+
+Špecián, Petr, and Lucy Císař Brown. 2025. “Give the machine a chance, human experts ain’t that great…” *AI & Society* 40(2): 1155–1156. Published online 2024.
+
+<https://doi.org/10.1007/s00146-024-01910-6>
+
+[Read the full text](https://link.springer.com/content/pdf/10.1007/s00146-024-01910-6.pdf) [Publisher version (DOI)](https://doi.org/10.1007/s00146-024-01910-6)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/machine-advisors.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Machine Advisors: Integrating Large Language Models Into Democratic Assemblies
+
+*Social Epistemology* 40(3), 393–408 · first published online 2024 · Open access
+
+Examines the integration of large language models into democratic assemblies: the promise of broader access to expert knowledge, and the risks posed by hallucination, opacity, and private control.
+
+## Abstract
+
+Could the employment of large language models (LLMs) in place of human advisors improve the problem-solving ability of democratic assemblies? LLMs represent the most significant recent incarnation of artificial intelligence and could change the future of democratic governance. This paper assesses their potential to serve as expert advisors to democratic representatives. While LLMs promise enhanced expertise availability and accessibility, they also present specific challenges. These include hallucinations, misalignment and value imposition. After weighing LLMs’ benefits and drawbacks against human advisors, I argue that time-tested democratic procedures, such as deliberation and aggregation by voting, provide safeguards that are effective against human and machine advisor shortcomings alike. Additional protective measures may include custom training for advisor LLMs or boosting representatives’ competencies in query formulation. Implementation of adversarial proceedings in which LLM advisors would debate each other and provide dissenting opinions is likely to yield further epistemic benefits. Overall, promising interventions that would mitigate the LLM risks appear feasible. Machine advisors could thus empower human decision-makers to make more autonomous, higher-quality decisions. On this basis, I defend the hypothesis that LLMs’ careful integration into policymaking could augment democracy’s ability to address today’s complex social problems.
+
+Large language models · Democracy · Expertise · Epistemic democracy · AI advisors · Deliberation
+
+## Citation
+
+Špecián, Petr. 2026. “Machine Advisors: Integrating Large Language Models Into Democratic Assemblies.” *Social Epistemology* 40(3): 393–408. Published online 2024.
+
+<https://doi.org/10.1080/02691728.2024.2379271>
+
+[Read the full text](https://www.tandfonline.com/doi/pdf/10.1080/02691728.2024.2379271) [Publisher version (DOI)](https://doi.org/10.1080/02691728.2024.2379271)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/myth-of-the-victim-public.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# The Myth of the Victim Public: Democracy Contra Disinformation
+
+*Filozofia* 77(10), 791–803 · Open access
+
+## Abstract
+
+Do people fall for online disinformation, or do they actively utilize it as a tool to accomplish their goals? Currently, the notion of the members of the public as victims of deception and manipulation prevails in the debate. It emphasizes the need to limit people’s exposure to falsehoods and bolster their deficient reasoning faculties. However, the observed epistemic irrationality can also stem from politically motivated reasoning incentivized by digital platforms. In this context, the readily available disinformation facilitates an arms race in loyalty signaling via a public endorsement of fanciful partisan claims. Such a signaling arms race appears capable of derailing democratic decision-making perhaps more effectively than any known reasoning deficiency. Appreciating the role of an instrumentally rational cost-benefit calculus in triggering the disinformation crisis thus appears vital. Examining these themes, the paper contributes to the current debates in political epistemology and democratic theory.
+
+Disinformation · Political epistemology · Democratic theory · Motivated reasoning · Signaling
+
+## Citation
+
+Špecián, Petr. 2022. “The Myth of the Victim Public: Democracy Contra Disinformation.” *Filozofia* 77(10): 791–803.
+
+<https://doi.org/10.31577/filozofia.2022.77.10.4>
+
+[Read the full text](https://www.sav.sk/journals/uploads/12202016filozofia.2022.77.10.4.pdf) [Publisher version (DOI)](https://doi.org/10.31577/filozofia.2022.77.10.4)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/phenomenological-perspectives-on-economics.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Phenomenological Perspectives on Economics: Schütz versus Düppe
+
+*Horizon: Studies in Phenomenology* 8(2), 613–631 · Open access
+
+## Abstract
+
+The article explores novel directions in the phenomenology of economics. It analyzes how the approaches of Till Düppe and Alfred Schütz, both inspired by Edmund Husserl, may shed light on the historical development of economics. I examine the substance and meaning of economics in the context of the forceful criticism of the whole discipline recently raised by Düppe. This examination uncovers important weaknesses and omissions inherent in Düppe’s argument against the economists’ scientific aspirations. The analysis of the social scientific endeavors by Alfred Schütz who develops a phenomenologically informed ‘telescopic’ concept of an ideal type is then shown to be a more fruitful and methodologically rigorous way towards understanding the developments within economics. The Schützian view permits us to see how abstract economic models originate in the experience of the life-world and are continuous with it. Accordingly, the historical development of economic science may be viewed as consisting from two broadly defined phases, where at first the formalism is steadily increasing (the ‘zooming out’ phase) and later the discipline converges back to context-specific empirical examinations (the ‘zooming in’ phase). A case study concentrating on the economic theory of politics illustrates that both the drive towards abstraction that has culminated around 1950s and the more recent ‘zooming in’ is methodologically legitimate from the phenomenological point of view. I conclude that economics has never been completely severed from the paramount reality of the everyday life and for decades the interconnection has been growing stronger by the day.
+
+Phenomenology · Philosophy of economics · Alfred Schütz · Till Düppe · Ideal types · Life-world
+
+## Citation
+
+Špecián, Petr. 2019. “Phenomenological Perspectives on Economics: Schütz versus Düppe.” *Horizon: Studies in Phenomenology* 8(2): 613–631.
+
+<https://doi.org/10.21638/2226-5260-2019-8-2-613-631>
+
+[Read the full text](https://doi.org/10.21638/2226-5260-2019-8-2-613-631)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/theory-of-collapse.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Konec se blíží? Kritické připomínky k teorii kolapsů
+
+*Teorie vědy / Theory of Science* 38(4), 425–448 · In Czech · Open access
+
+## Abstract
+
+The study shows three fundamental weaknesses in contemporary Czech discourse on collapse of complex societies as prominently represented by Miroslav Bárta. First, the absence of scientific consensus regarding the determinants of the historical development has not been properly considered, and very limited attention has been dedicated to a theory that would provide a unifying framework for inclusion and interpretation of individual predictors. Second, there has been no clear answer to the question of which social structure, be it a state, a culture, or a civilization, exactly is the subject of examination, although a specific delimitation seems to be analytically necessary. Third, even a superficial examination shows many of the proposed predictors of the approaching collapse as deeply problematic. The study concludes that the current level of development of the scientific study of complex societies’ collapse does not provide ground to justify predictions that could pragmatically legitimize the social sciences and humanities.
+
+Collapse of complex societies · Miroslav Bárta · Philosophy of social science · Prediction
+
+## Citation
+
+Špecián, Petr. 2016. “Konec se blíží? Kritické připomínky k teorii kolapsů \[The End Is Near? Critical Remarks on the Theory of Collapse\].” *Teorie vědy / Theory of Science* 38(4): 425–448.
+
+<https://doi.org/10.46938/tv.2016.350>
+
+[Read the full text](https://teorievedy.flu.cas.cz/index.php/tv/article/download/350/384) [Publisher version (DOI)](https://doi.org/10.46938/tv.2016.350)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+<!-- https://petrspecian.com/publications/universal-basic-ai-access.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+
+# Universal Basic AI Access: Countering the Digital Divide
+
+*Acta Informatica Pragensia* 14(2), 272–281 · Open access · CC BY 4.0
+
+A policy proposal for countering emerging digital divides in access to frontier generative AI.
+
+## Abstract
+
+Generative artificial intelligence (GAI) presents an opportunity to democratize access to high-performance, easy-to-use tools of productivity enhancement. However, current adoption patterns suggest that it may instead amplify existing digital divides. The aim of this paper is to propose a policy intervention to ensure equitable access to frontier GAI capabilities: the universal basic AI access (UBAI). Relying on literature research and theoretical analysis, we examine two implementation variants: a voucher-based system making use of commercial providers (UBAI-Light) and direct public provision of GAI services (UBAI-Heavy). We also consider a gradual implementation approach that allows policymakers to support an immediate capture of democratizing benefits while building the capacity for a more substantive future government involvement, should it become necessary. Given the rapid pace of GAI development and adoption, we conclude that timely implementation of UBAI could help prevent the spread of GAI-driven inequalities before they become entrenched.
+
+Generative artificial intelligence · Digital divide · Technology policy · Universal basic services · Digital inequality · AI governance
+
+## Citation
+
+Špecián, Petr, and Jitka Špeciánová. 2025. “Universal Basic AI Access: Countering the Digital Divide.” *Acta Informatica Pragensia* 14(2): 272–281.
+
+<https://doi.org/10.18267/j.aip.270>
+
+[Read the full text](https://aip.vse.cz/doi/10.18267/j.aip.270.pdf) [Publisher version (DOI)](https://doi.org/10.18267/j.aip.270)
+
+[← All publications](https://petrspecian.com/publications.html)
+
+---
+
+# Publications: Petr Špecián
+
+Canonical page: https://petrspecian.com/publications.html  
+ORCID: https://orcid.org/0000-0003-2702-0354  
+Source of truth: bib/publications.bib  
+This file is generated; do not edit by hand.  
+Abstracts and full-text links: per-work pages under https://petrspecian.com/markdown/publications/ (all of them concatenated in https://petrspecian.com/llms-full.txt).
+
+## Book
+
+- Špecián, Petr. 2022. *Behavioral Political Economy and Democratic Theory: Fortifying Democracy for the Digital Age*. Routledge Frontiers of Political Economy. New York: Routledge. https://doi.org/10.4324/9781003274988 Details: https://petrspecian.com/markdown/publications/book.md
+
+## Journal articles
+
+- Špecián, Petr. 2026. "Machine Advisors: Integrating Large Language Models Into Democratic Assemblies." *Social Epistemology* 40(3): 393–408. Published online 2024. https://doi.org/10.1080/02691728.2024.2379271 Full text: https://www.tandfonline.com/doi/pdf/10.1080/02691728.2024.2379271 Details: https://petrspecian.com/markdown/publications/machine-advisors.md
+- Špecián, Petr, and Jitka Špeciánová. 2025. "Universal Basic AI Access: Countering the Digital Divide." *Acta Informatica Pragensia* 14(2): 272–281. https://doi.org/10.18267/j.aip.270 Full text: https://aip.vse.cz/doi/10.18267/j.aip.270.pdf Details: https://petrspecian.com/markdown/publications/universal-basic-ai-access.md
+- Špecián, Petr, and Lucy Císař Brown. 2025. "Give the machine a chance, human experts ain't that great…" *AI & Society* 40(2): 1155–1156. Published online 2024. https://doi.org/10.1007/s00146-024-01910-6 Full text: https://link.springer.com/content/pdf/10.1007/s00146-024-01910-6.pdf Details: https://petrspecian.com/markdown/publications/give-the-machine-a-chance.md
+- Špecián, Petr. 2022. "The Myth of the Victim Public: Democracy Contra Disinformation." *Filozofia* 77(10): 791–803. https://doi.org/10.31577/filozofia.2022.77.10.4 Full text: https://www.sav.sk/journals/uploads/12202016filozofia.2022.77.10.4.pdf Details: https://petrspecian.com/markdown/publications/myth-of-the-victim-public.md
+- Špecián, Petr. 2022. "Shall Justice Prevail? Reforming the Epistemic Basic Structure in a Non-Ideal World." *Social Epistemology Review and Reply Collective* 11(8): 75–83. https://wp.me/p1Bfg0-768
+- Špecián, Petr. 2022. "Epistemology and the Pandemic: Lessons from an Epistemic Crisis." *Social Epistemology* 36(2): 167–179. https://doi.org/10.1080/02691728.2021.2009931 Details: https://petrspecian.com/markdown/publications/epistemology-and-the-pandemic.md
+- Špecián, Petr. 2019. "Phenomenological Perspectives on Economics: Schütz versus Düppe." *Horizon: Studies in Phenomenology* 8(2): 613–631. https://doi.org/10.21638/2226-5260-2019-8-2-613-631 Details: https://petrspecian.com/markdown/publications/phenomenological-perspectives-on-economics.md
+- Špecián, Petr. 2019. "The Precarious Case of the True Preferences." *Society* 56(3): 267–272. https://doi.org/10.1007/s12115-019-00363-8
+- Špecián, Petr. 2017. "Ekonomická analýza referenda [An Economic Analysis of a Referendum]." *Politická ekonomie* 65(4): 460–475. https://doi.org/10.18267/j.polek.1155 Full text: https://www.vse.cz/polek/download.php?lang=cs&jnl=polek&pdf=1155.pdf Details: https://petrspecian.com/markdown/publications/economic-analysis-of-a-referendum.md
+- Špecián, Petr. 2016. "Konec se blíží? Kritické připomínky k teorii kolapsů [The End Is Near? Critical Remarks on the Theory of Collapse]." *Teorie vědy / Theory of Science* 38(4): 425–448. https://doi.org/10.46938/tv.2016.350 Full text: https://teorievedy.flu.cas.cz/index.php/tv/article/download/350/384 Details: https://petrspecian.com/markdown/publications/theory-of-collapse.md
+- Špecián, Petr. 2015. "Potřebuje ekonomie psychologii? [Does Economics Need Psychology?]." *Teorie vědy / Theory of Science* 37(3): 279–301. https://doi.org/10.46938/tv.2015.264 Full text: https://teorievedy.flu.cas.cz/index.php/tv/article/download/264/331
+- Melzochová, Jitka, and Petr Špecián. 2015. "An Estimate of the Basic Income Costs: Case of the Czech Republic." *Procedia Economics and Finance* 30: 550–557. https://doi.org/10.1016/S2212-5671(15)01267-8 Details: https://petrspecian.com/markdown/publications/basic-income-costs-czech-republic.md
+- Špecián, Petr. 2014. "Phenomenology and Economics." *Erasmus Journal for Philosophy and Economics* 7(1): 161–165. https://doi.org/10.23941/ejpe.v7i1.164 Full text: https://ejpe.org/journal/article/download/164/158
+- Špecián, Petr. 2012. "Od Misese k Schutzovi: Otázka apriorismu v ekonomii [From Mises to Schutz: A Question of Apriorism in Economics]." *Politická ekonomie* 60(3): 395–410. https://doi.org/10.18267/j.polek.848
+- Špecián, Petr. 2012. "Svět a věda u Ludwiga von Misese [World and Science in Ludwig von Mises]." *Filozofia* 67(4): 335–346. https://philarchive.org/rec/PECSAV
+
+## Chapters
+
+- Špeciánová, Jitka, and Petr Špecián. 2024. "Umělá inteligence na trzích práce [Artificial Intelligence in Labor Markets]." In *Proč se nebát umělé inteligence?*, 229–240. Brno: JOTA.
+- Špecián, Petr. 2022. "Democracy and Anthropic Risk." In *Green Marble 2022: Studies on the Anthropocene and Ecocriticism*, 215–226. Institute for Anthropocene Studies. https://doi.org/10.21814/1822.81362
+- Špecián, Petr, and Marek Hudík. 2021. "O expertech a lidech: Spasitelské lhaní v časech pandemie [Of Experts and Men: White Lies in the Time of a Pandemic]." In *Dedičstvo koronakrízy: Ako lepšie zvládnuť ďalšiu pandémiu*, 53–74. Bratislava: INESS.
+
+## Preprints and working papers
+
+- Špecián, Petr. 2026. "Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal." SSRN working paper. https://doi.org/10.2139/ssrn.7258922 Full text: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7258922 Details: https://petrspecian.com/markdown/publications/built-for-humans-only.md
+- Špecián, Petr. 2026. "Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck." arXiv:2409.00826. https://doi.org/10.48550/arXiv.2409.00826 Full text: https://arxiv.org/abs/2409.00826 Details: https://petrspecian.com/markdown/publications/digital-homunculi.md
+
+## Public writing
+
+- Špecián, Petr. 2023. "A Case for Democracy's Digital Playground." The Loop, ECPR. https://theloop.ecpr.eu/a-case-for-democracys-digital-playground/
+- Špecián, Petr. 2022. "Science of Democracy and the Owl of Minerva." The Loop, ECPR. https://theloop.ecpr.eu/science-of-democracy-and-the-owl-of-minerva/

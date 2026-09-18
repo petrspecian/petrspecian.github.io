@@ -1,0 +1,10 @@
+<script>
+/* the navbar is transparent over the banner at the top of the page and white once scrolled */
+(function () {
+  var h = document.getElementById("quarto-header");
+  if (!h) return;
+  var f = function () { h.classList.toggle("scrolled", window.scrollY > 24); };
+  window.addEventListener("scroll", f, { passive: true });
+  f();
+})();
+</script>

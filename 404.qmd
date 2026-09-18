@@ -1,0 +1,18 @@
+---
+title: "Page not found"
+description: "This page does not exist on petrspecian.com."
+pagetitle: "Page not found"
+toc: false
+search: false
+---
+
+The page you were looking for is not here. If you followed a link from the old version of this site, the content most likely moved to one of these places:
+
+- [Research](/research.html), including the AI institutional transformation programme
+- [Publications](/publications.html), the full list with DOIs
+- [Talks & Media](/talks.html), which also absorbed the old News page
+- [Teaching](/teaching.html)
+- [About](/about.html), including fellowships and identifiers
+- [Contact](/contact.html)
+
+Or use the search in the top bar.

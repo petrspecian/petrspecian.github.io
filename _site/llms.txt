@@ -1,0 +1,48 @@
+# Petr Špecián
+
+> Official website of Petr Špecián, Assistant Professor at the Faculty of Social Sciences, Charles University in Prague. Research on generative AI, democracy, expertise, institutional change, behavioral political economy, and higher education.
+
+Authoritative identity: https://petrspecian.com/markdown/profile.md  
+Everything on this site in one Markdown file: https://petrspecian.com/llms-full.txt  
+Every HTML page links its own Markdown twin via <link rel="alternate" type="text/markdown">.
+
+## Core pages
+
+- [Home](https://petrspecian.com/) · [Markdown](https://petrspecian.com/markdown/home.md): Positioning, current work, and recent activity.
+- [About](https://petrspecian.com/about.html) · [Markdown](https://petrspecian.com/markdown/about.md): Biography, roles, education, affiliations, and persistent identifiers.
+- [Research](https://petrspecian.com/research.html) · [Markdown](https://petrspecian.com/markdown/research.md): Research programme and funded projects: AI institutional transformation, LLMs and democracy, expertise, behavioral political economy.
+- [Publications](https://petrspecian.com/publications.html) · [Markdown](https://petrspecian.com/markdown/publications-page.md): Books, journal articles, chapters, preprints, and public writing, with abstracts and open-access full texts.
+- [Teaching](https://petrspecian.com/teaching.html) · [Markdown](https://petrspecian.com/markdown/teaching.md): Courses currently taught, courses previously taught, teaching mobilities, and thesis supervision.
+- [Talks and Media](https://petrspecian.com/talks.html) · [Markdown](https://petrspecian.com/markdown/talks.md): Recorded talks, keynotes, invited lectures, conference talks 2017 to the present, interviews, organized events.
+- [Writing](https://petrspecian.com/writing.html) · [Markdown](https://petrspecian.com/markdown/writing.md): Essays and public writing.
+- [Contact](https://petrspecian.com/contact.html) · [Markdown](https://petrspecian.com/markdown/contact.md): Contact details and professional profiles.
+
+## Individual works (abstract, citation, full-text links)
+
+- [An Estimate of the Basic Income Costs: Case of the Czech Republic](https://petrspecian.com/publications/basic-income-costs-czech-republic.html) · [Markdown](https://petrspecian.com/markdown/publications/basic-income-costs-czech-republic.md): The paper examines existing basic income proposals and estimates the costs of their implementation within the Czech Republic. The specific virtues and vices of a basic income guarantee compared to existing social…
+- [Behavioral Political Economy and Democratic Theory](https://petrspecian.com/publications/book.html) · [Markdown](https://petrspecian.com/markdown/publications/book.md): Examines the friction between modern technology and human rationality within liberal democracies, and advocates a behaviorally grounded theory of democracy for the digital age.
+- [Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal](https://petrspecian.com/publications/built-for-humans-only.html) · [Markdown](https://petrspecian.com/markdown/publications/built-for-humans-only.md): Argues that bundling the authentication of student performance with its quantitative evaluation is no longer sustainable under generative AI, and proposes a New Deal Model built on student-owned, machine-readable portfolios.
+- [Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck](https://petrspecian.com/publications/digital-homunculi.html) · [Markdown](https://petrspecian.com/markdown/publications/digital-homunculi.md): Proposes generative agents as a way around the experimentation bottleneck in democracy research, and examines the methodological challenges involved.
+- [Ekonomická analýza referenda](https://petrspecian.com/publications/economic-analysis-of-a-referendum.html) · [Markdown](https://petrspecian.com/markdown/publications/economic-analysis-of-a-referendum.md): The paper synthesizes the current literature regarding information aggregation, voter competence, voting paradox and behavioral economics in order to answer the question whether the phenomenon of ‘wisdom of the crowds’…
+- [Epistemology and the Pandemic: Lessons from an Epistemic Crisis](https://petrspecian.com/publications/epistemology-and-the-pandemic.html) · [Markdown](https://petrspecian.com/markdown/publications/epistemology-and-the-pandemic.md): Many democratic countries have failed to stand up to the challenge presented by the COVID-19 pandemic. I argue that the collective response to the pandemic has been incapacitated by an ‘epistemic crisis’, (i.e., a…
+- [Give the machine a chance, human experts ain’t that great…](https://petrspecian.com/publications/give-the-machine-a-chance.html) · [Markdown](https://petrspecian.com/markdown/publications/give-the-machine-a-chance.md): Argues that the policy-relevant comparison is between LLMs and real human expertise, with its biases and conflicts of interest, rather than an idealized version of it.
+- [Machine Advisors: Integrating Large Language Models Into Democratic Assemblies](https://petrspecian.com/publications/machine-advisors.html) · [Markdown](https://petrspecian.com/markdown/publications/machine-advisors.md): Examines the integration of large language models into democratic assemblies: the promise of broader access to expert knowledge, and the risks posed by hallucination, opacity, and private control.
+- [The Myth of the Victim Public: Democracy Contra Disinformation](https://petrspecian.com/publications/myth-of-the-victim-public.html) · [Markdown](https://petrspecian.com/markdown/publications/myth-of-the-victim-public.md): Do people fall for online disinformation, or do they actively utilize it as a tool to accomplish their goals? Currently, the notion of the members of the public as victims of deception and manipulation prevails in the…
+- [Phenomenological Perspectives on Economics: Schütz versus Düppe](https://petrspecian.com/publications/phenomenological-perspectives-on-economics.html) · [Markdown](https://petrspecian.com/markdown/publications/phenomenological-perspectives-on-economics.md): The article explores novel directions in the phenomenology of economics. It analyzes how the approaches of Till Düppe and Alfred Schütz, both inspired by Edmund Husserl, may shed light on the historical development of…
+- [Konec se blíží? Kritické připomínky k teorii kolapsů](https://petrspecian.com/publications/theory-of-collapse.html) · [Markdown](https://petrspecian.com/markdown/publications/theory-of-collapse.md): The study shows three fundamental weaknesses in contemporary Czech discourse on collapse of complex societies as prominently represented by Miroslav Bárta. First, the absence of scientific consensus regarding the…
+- [Universal Basic AI Access: Countering the Digital Divide](https://petrspecian.com/publications/universal-basic-ai-access.html) · [Markdown](https://petrspecian.com/markdown/publications/universal-basic-ai-access.md): A policy proposal for countering emerging digital divides in access to frontier generative AI.
+
+## Machine-readable resources
+
+- [Profile in Markdown (identity, affiliation, identifiers, disambiguation)](https://petrspecian.com/markdown/profile.md)
+- [Publication list in Markdown](https://petrspecian.com/markdown/publications.md)
+- [Publications in BibTeX](https://petrspecian.com/bib/publications.bib)
+- [Full site text in one file](https://petrspecian.com/llms-full.txt)
+
+## External authority records
+
+- [ORCID](https://orcid.org/0000-0003-2702-0354)
+- [Charles University profile](https://fsv.cuni.cz/en/contacts/people/22729867)
+- [Google Scholar](https://scholar.google.cz/citations?user=iYTXP5oAAAAJ)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55200307800)
+- [PhilPeople](https://philpeople.org/profiles/petr-specian)

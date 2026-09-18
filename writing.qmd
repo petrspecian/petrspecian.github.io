@@ -1,0 +1,31 @@
+---
+title: "Writing"
+subtitle: "Essays for a broader audience"
+description: "Essays and public writing by Petr Špecián on democracy, expertise, and technological change."
+pagetitle: "Writing"
+toc: false
+---
+
+Occasional essays on democracy, expertise, and technological change, written for a broader audience.
+
+::: {.publication-card}
+<p class="card-kicker">The Loop · 2023</p>
+
+### A Case for Democracy's Digital Playground
+
+Democratic institutions need protected spaces for experimentation if they are to adapt to the pressures of the digital age. The essay outlines an artificial world where institutional mechanisms can compete, fail cheaply, and improve, starting with small-scale educational applications.
+
+[Read at The Loop](https://theloop.ecpr.eu/a-case-for-democracys-digital-playground/)
+:::
+
+::: {.publication-card}
+<p class="card-kicker">The Loop · 2022</p>
+
+### Science of Democracy and the Owl of Minerva
+
+Why the scientific understanding of democracy matters most when its established assumptions come under strain.
+
+[Read at The Loop](https://theloop.ecpr.eu/science-of-democracy-and-the-owl-of-minerva/)
+:::
+
+For the academic record, including full texts where they are open, see [Publications](publications.html).

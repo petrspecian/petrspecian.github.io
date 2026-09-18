@@ -1,0 +1,84 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "publications/*.qmd"
+  resources:
+    - assets/**
+    - markdown/**
+    - bib/**
+    - robots.txt
+    - CNAME
+    - .nojekyll
+  post-render:
+    - python3 scripts/postprocess.py
+
+lang: en
+canonical-url: true
+
+website:
+  title: "Petr Špecián"
+  site-url: "https://petrspecian.com"
+  description: "Petr Špecián is an interdisciplinary scholar researching generative AI, democracy, expertise, institutional change, and higher education at Charles University in Prague."
+  favicon: assets/favicon.png
+  navbar:
+    title: "Petr Špecián"
+    background: light
+    pinned: true
+    left:
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Talks & Media
+        href: talks.qmd
+      - text: Writing
+        href: writing.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    left: "© 2026 Petr Špecián"
+    center: "AI · democracy · institutional change"
+    right:
+      - text: ORCID
+        href: https://orcid.org/0000-0003-2702-0354
+      - text: Google Scholar
+        href: https://scholar.google.cz/citations?user=iYTXP5oAAAAJ
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/pspecian/
+  search:
+    location: navbar
+    type: overlay
+  open-graph:
+    image: /assets/og.jpg
+    locale: en_US
+    site-name: "Petr Špecián"
+  twitter-card:
+    image: /assets/og.jpg
+    card-style: summary_large_image
+
+format:
+  html:
+    theme: cosmo
+    css:
+      - assets/fonts/lato.css
+      - styles.css
+    title-block-banner: true
+    toc: true
+    toc-location: right
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      - _includes/person-schema.html
+    include-after-body:
+      - _includes/nav-scroll.html
+
+execute:
+  freeze: auto

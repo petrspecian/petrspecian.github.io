@@ -1,0 +1,289 @@
+/* petrspecian.com — visual identity taken from Petr's own live site (2026-09-02).
+   After three designed candidates were rejected ("cringe", "trying too hard",
+   "bland, lifeless, faux") the identity now comes from the page he already likes:
+   white ground, Lato throughout, light-weight blue headings, a pastel future-city
+   banner carrying the page title, an uncropped portrait, real thumbnails of talks.
+   Nothing here is a designer's idea; it is his site done properly. Standing rules:
+   every visual element must mean something; portrait natural colour, straight
+   crop, no masks; no jokes; no em dashes; width from max-width + auto margins,
+   never viewport arithmetic. */
+
+:root {
+  --blue: #1e6c93;
+  --blue-dark: #155273;
+  --ink: #212121;
+  --gray: #5f6368;
+  --rule: #e3e6e8;
+  --tint: #f4f6f7;
+  --sans: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --measure: 70ch;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: #fff;
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 1.02rem;
+  line-height: 1.62;
+}
+
+a { color: var(--blue); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.15em; }
+a:hover { color: var(--blue-dark); }
+
+/* ------------------------------------------------------------------- nav */
+
+.navbar {
+  background: #fff !important;
+  border-bottom: 1px solid var(--rule);
+  padding-top: 0.55rem;
+  padding-bottom: 0.55rem;
+}
+
+.navbar-brand { color: var(--ink) !important; font-family: var(--sans); font-weight: 400; font-size: 1.05rem; }
+.navbar-nav .nav-link { color: var(--gray) !important; font-family: var(--sans); font-size: 0.92rem; font-weight: 400; }
+.navbar-nav .nav-link:hover, .navbar-nav .nav-link.active { color: var(--blue) !important; }
+.navbar .quarto-navbar-tools .quarto-navigation-tool { color: var(--gray); }
+
+/* --------------------------------------------------------------- banner */
+
+/* the navbar floats over the banner while at the top of the page, as on the live site,
+   and turns white once the reader scrolls */
+body.nav-fixed { padding-top: 0 !important; }
+#quarto-header .navbar { background: transparent !important; border-bottom-color: transparent; transition: background-color 0.2s ease, border-color 0.2s ease; }
+#quarto-header.scrolled .navbar { background: #fff !important; border-bottom: 1px solid var(--rule); }
+#quarto-header.scrolled { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06); }
+
+/* the page title sits on Petr's pastel banner, in the thin weight his site uses */
+.quarto-title-banner {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.38), rgba(255, 255, 255, 0.38)), url("/assets/banner.jpg") !important;
+  background-size: cover !important;
+  background-position: center 40% !important;
+  background-color: #dfe9ec !important;
+  min-height: 340px;
+  padding-top: 64px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 2.4rem;
+}
+
+.quarto-title-banner .quarto-title { text-align: center; width: 100%; }
+
+#title-block-header .quarto-title-banner h1.title {
+  color: var(--ink) !important;
+  font-weight: 300 !important;
+  font-size: clamp(2.2rem, 4.6vw, 3.4rem);
+  line-height: 1.12;
+  margin: 0;
+  text-wrap: balance;
+}
+
+#title-block-header .quarto-title-banner .subtitle {
+  color: var(--ink) !important;
+  opacity: 1 !important;
+  font-weight: 400;
+  font-size: clamp(1.05rem, 1.6vw, 1.3rem);
+  max-width: 60ch;
+  margin: 0.9rem auto 0;
+}
+
+#title-block-header .description { display: none; }
+#title-block-header .quarto-title-meta { display: none; }
+
+/* -------------------------------------------------------------- headings */
+
+h1, h2, h3, h4 { font-family: var(--sans); color: var(--blue); line-height: 1.2; }
+h1 { font-weight: 300; font-size: clamp(2rem, 3.4vw, 2.8rem); }
+h2 { font-weight: 300; font-size: clamp(1.7rem, 2.6vw, 2.15rem); margin-top: 2.6rem; margin-bottom: 0.9rem; padding-top: 1.6rem; border-top: 1px solid var(--rule); border-bottom: 0; }
+h3 { font-weight: 400; font-size: 1.3rem; margin-top: 1.8rem; margin-bottom: 0.45rem; }
+h2:first-child, .section-shell h2 { border-top: 0; padding-top: 0; }
+
+.content { max-width: 1100px; }
+main.content.column-page { max-width: none; padding-left: 0; padding-right: 0; }
+
+/* ------------------------------------------------------------ registers */
+
+.card-kicker, .meta-label, .chip, .card-link, .publication-actions, .publication-meta {
+  font-size: 0.88rem;
+  color: var(--gray);
+  letter-spacing: 0;
+  text-transform: none;
+  line-height: 1.5;
+}
+.card-kicker { margin-bottom: 0.15rem; }
+.chip-row, .project-meta { display: block; margin: 0.4rem 0 0.8rem; }
+.chip { border: 0; padding: 0; background: transparent; }
+.chip + .chip::before { content: "·"; margin: 0 0.5em; }
+.publication-meta { margin: 0.2rem 0 0.5rem; }
+.lede { font-size: 1.15rem; line-height: 1.55; max-width: 62ch; margin: 0.2rem 0 1.4rem; color: var(--ink); }
+
+/* ------------------------------------------------------------------ hero */
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 380px;
+  align-items: start;
+  gap: clamp(2rem, 5vw, 4rem);
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0.6rem clamp(1.35rem, 4vw, 2.5rem) 2rem;
+}
+
+.hero-lead { font-size: 1.08rem; line-height: 1.65; max-width: var(--measure); margin-bottom: 1.2rem; }
+.hero-note { color: var(--ink); font-size: 1.02rem; max-width: var(--measure); margin-top: 1.2rem; }
+.hero-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.4rem; }
+p.hero-actions { margin: 1.4rem 0; }
+
+.button-primary, .button-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.62rem 1.3rem;
+  border-radius: 4px;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+.button-primary { background: var(--blue); color: #fff; }
+.button-primary:hover { background: var(--blue-dark); color: #fff; }
+.button-secondary { color: var(--blue); box-shadow: inset 0 0 0 1px var(--blue); background: #fff; }
+.button-secondary:hover { color: #fff; background: var(--blue); }
+
+/* portrait: natural aspect, no crop, no frame, like the live site */
+.portrait-frame { width: 100%; max-width: 380px; margin: 0.2rem 0 0 auto; }
+.portrait-media { border: 0; padding: 0; background: transparent; }
+.portrait-media img { display: block; width: 100%; height: auto; border-radius: 2px; }
+.portrait-caption, .portrait-frame figcaption, .book-feature figcaption { display: none; }
+.portrait-frame figure, .book-feature figure { margin: 0; }
+
+/* -------------------------------------------------------------- sections */
+
+.section-shell { max-width: 1140px; margin: 0 auto; padding: 1.6rem clamp(1.35rem, 4vw, 2.5rem) 2.2rem; border-top: 1px solid var(--rule); }
+.section-shell h2 { margin-top: 0.4rem; }
+.section-intro { max-width: var(--measure); color: var(--ink); }
+
+.card-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.5rem 2.4rem; margin-top: 0.8rem; }
+.card-grid .feature-card { background: transparent; border: 0; padding: 0.6rem 0 1rem; display: flex; flex-direction: column; }
+.feature-card h3 { margin-top: 0.2rem; font-size: 1.22rem; }
+.feature-card p { color: var(--ink); font-size: 0.97rem; }
+.feature-card .card-link { margin-top: auto; padding-top: 0.4rem; }
+
+/* book: cover beside the text, no box */
+.book-feature { display: grid; grid-template-columns: 230px 1fr; gap: clamp(2rem, 5vw, 3.5rem); align-items: start; background: transparent; border: 0; padding: 0; }
+.book-feature img { display: block; width: 100%; height: auto; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18); }
+.book-feature h2, .book-feature h3 { margin-top: 0; border-top: 0; padding-top: 0; }
+.book-feature p { color: var(--ink); max-width: var(--measure); }
+
+/* ---------------------------------------------------- lists on subpages */
+
+.project-card, .course-card, .publication-card, .selected-list .work {
+  background: transparent; border: 0; border-radius: 0; box-shadow: none;
+  padding: 0.2rem 0 1rem; margin: 0 0 1rem;
+}
+.selected-list .work h3 { margin-top: 0.2rem; }
+.selected-list .work h3 a { text-decoration: none; }
+.selected-list .work h3 a:hover { text-decoration: underline; }
+.selected-list .work p { margin: 0.3rem 0; }
+.selected-list .work .summary { max-width: var(--measure); }
+
+/* citations: hanging indent, as on the live site */
+.citation-list p { padding: 0.35rem 0 0.35rem 2rem; text-indent: -2rem; margin: 0; font-size: 0.98rem; }
+.course-list p { padding: 0.7rem 0; margin: 0; }
+
+.programme-lede { border-left: 3px solid var(--blue); padding: 0.1rem 0 0.1rem 1.2rem; margin: 1.2rem 0 1.6rem; font-size: 1.05rem; color: var(--ink); max-width: var(--measure); }
+.programme-lede p:last-child { margin-bottom: 0; }
+
+.citation-block { background: var(--tint); border-radius: 4px; padding: 1rem 1.2rem; margin: 0.6rem 0 1.4rem; font-size: 0.98rem; }
+.citation-block p:last-child { margin-bottom: 0; }
+.callout-note { background: var(--tint); border: 0 !important; border-radius: 4px !important; }
+.callout-note .callout-icon { display: none; }
+
+/* recorded talks: thumbnail grid, as on the live site */
+.video-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.6rem 2rem; margin: 1.2rem 0 1rem; }
+.video { display: flex; flex-direction: column; }
+.video-thumb { position: relative; display: block; aspect-ratio: 16 / 9; overflow: hidden; border-radius: 4px; background: #000; }
+.video-thumb img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.video-thumb .play {
+  position: absolute; left: 50%; top: 50%; width: 56px; height: 40px; margin: -20px 0 0 -28px;
+  background: rgba(0, 0, 0, 0.72); border-radius: 10px;
+}
+.video-thumb .play::after {
+  content: ""; position: absolute; left: 22px; top: 11px;
+  border-style: solid; border-width: 9px 0 9px 16px; border-color: transparent transparent transparent #fff;
+}
+.video-thumb:hover .play { background: var(--blue); }
+.video h3 { font-size: 1.15rem; margin: 0.8rem 0 0.3rem; }
+.video p { font-size: 0.95rem; margin: 0.2rem 0; }
+.video .card-link { margin-top: auto; padding-top: 0.3rem; }
+
+/* about page */
+.profile-grid { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(240px, 0.5fr); gap: 3rem; }
+.profile-aside { border-left: 1px solid var(--rule); padding-left: 1.8rem; font-size: 0.95rem; }
+.profile-aside h3 { font-size: 1.05rem; margin-top: 1.6rem; }
+.profile-aside h3:first-child { margin-top: 0; }
+.profile-aside ul { list-style: none; padding: 0; }
+.profile-aside li { padding: 0.45rem 0; }
+.profile-aside li a { color: var(--ink); text-decoration-color: var(--rule); text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.profile-aside li a:hover { color: var(--blue); text-decoration-color: var(--blue); }
+
+.topic-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 2.5rem; margin: 1.5rem 0; }
+.topic-card { padding: 0.8rem 0 1rem; }
+.topic-card h3 { margin-top: 0; }
+
+/* ------------------------------------------------------------ toc, footer */
+
+#TOC { border-left: 1px solid var(--rule); padding-left: 1rem; }
+#TOC .nav-link, #TOC a { color: var(--gray) !important; font-size: 0.88rem; text-decoration: none; }
+#TOC .nav-link:hover, #TOC a:hover { color: var(--blue) !important; }
+#TOC .nav-link.active, #TOC a.active { color: var(--blue) !important; font-weight: 700; border-left-color: var(--blue) !important; }
+.sidebar nav[role="doc-toc"] > h2, #toc-title { color: var(--ink); font-size: 0.95rem; font-weight: 700; border-top: 0; padding-top: 0; margin-top: 0; }
+
+.nav-footer { background: var(--tint); color: var(--gray); border: 0; font-size: 0.88rem; margin-top: 3rem; }
+.nav-footer a { color: var(--blue); }
+
+/* --------------------------------------------------------- breakpoints */
+
+@media (max-width: 1100px) {
+  .hero { grid-template-columns: minmax(0, 1fr) 320px; }
+}
+
+@media (max-width: 991px) {
+  .hero { grid-template-columns: 1fr; gap: 1.4rem; }
+  .portrait-frame { margin: 0.4rem auto 0; max-width: 340px; }
+  .card-grid, .video-grid { grid-template-columns: 1fr; }
+  .topic-grid { grid-template-columns: 1fr; }
+  .profile-grid { grid-template-columns: 1fr; gap: 1.6rem; }
+  .profile-aside { border-left: 0; border-top: 1px solid var(--rule); padding: 1.4rem 0 0; }
+  .book-feature { grid-template-columns: 180px 1fr; }
+  .quarto-title-banner { min-height: 260px; }
+}
+
+@media (max-width: 640px) {
+  body { font-size: 1rem; }
+  .hero { padding: 0.4rem 1.35rem 1.6rem; }
+  .section-shell { padding: 1.4rem 1.35rem 1.8rem; }
+  .book-feature { grid-template-columns: 1fr; }
+  .book-feature img { max-width: 200px; }
+  .hero-actions { flex-direction: column; align-items: stretch; }
+  .button-primary, .button-secondary { width: 100%; }
+  .quarto-title-banner { min-height: 220px; }
+  .citation-list p { padding-left: 1.2rem; text-indent: -1.2rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; transition: none !important; }
+}
+
+/* ---------------------------------------------- funded projects (Research) */
+.project-list .project { padding: 0.5rem 0 1rem; margin: 0 0 0.6rem; border-bottom: 1px solid var(--rule); }
+.project-list .project:last-child { border-bottom: 0; }
+.project-list .project p { margin: 0.3rem 0; max-width: var(--measure); }
+.project-list .project .project-meta { margin: 0.15rem 0 0.4rem; }
+details.abstract { margin: 0.5rem 0 0; }
+details.abstract summary { cursor: pointer; color: var(--blue); font-size: 0.92rem; list-style: none; }
+details.abstract summary::-webkit-details-marker { display: none; }
+details.abstract summary::before { content: "+ "; }
+details.abstract[open] summary::before { content: "− "; }
+details.abstract p { font-size: 0.95rem; margin-top: 0.5rem; }

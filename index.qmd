@@ -1,0 +1,128 @@
+---
+pagetitle: "AI, Democracy and Institutional Change"
+title: "Petr Špecián"
+description: "Petr Špecián is an interdisciplinary scholar at Charles University in Prague studying the impacts of generative AI on political and educational institutions."
+page-layout: full
+toc: false
+header-includes: |
+  <link rel="alternate" type="text/markdown" href="https://petrspecian.com/markdown/profile.md" title="Profile in Markdown">
+---
+
+::: {.hero}
+::: {.hero-copy}
+
+<p class="hero-lead">I am an interdisciplinary scholar affiliated with the [Faculty of Social Sciences, Charles University](https://fsv.cuni.cz/en) in Prague. My research draws upon my background in economics, philosophy, and political theory, focusing on the impacts of generative AI on political and educational institutions.</p>
+
+<div class="hero-actions">
+  <a class="button-primary" href="research.html">Research</a>
+  <a class="button-secondary" href="publications.html">Publications</a>
+  <a class="button-secondary" href="contact.html">Contact</a>
+</div>
+
+<p class="hero-note">I serve as the Coordinator for Studies at [PPE Prague](https://studyppe.com/) at the Institute of Political Studies. I teach and write in Czech and English.</p>
+:::
+
+::: {.portrait-frame}
+```{=html}
+<div class="portrait-media">
+  <img src="assets/petr-specian.jpg"
+       alt="Petr Špecián, photographed in a white shirt against a plain background"
+       width="900" height="789">
+</div>
+```
+:::
+:::
+
+::: {.section-shell}
+## Research
+
+<p class="section-intro">My main interest lies in seeking ways to expedite institutional adaptation to technological shocks and improve the robustness and performance of our key institutional infrastructure. I am also interested in futures studies and progress studies.</p>
+
+::: {.card-grid}
+::: {.feature-card}
+<p class="card-kicker">Research programme</p>
+
+### AI institutional transformation
+
+How universities and democratic institutions can harness AI's benefits while preserving the human epistemic agency essential to democratic societies.
+
+<p class="card-link"><a href="research.html#ai-institutional-transformation">See the programme →</a></p>
+:::
+
+::: {.feature-card}
+<p class="card-kicker">Journal article · Social Epistemology</p>
+
+### Machine Advisors
+
+Large language models can access more information than human experts and tailor their findings to individuals' needs. Could their use broaden the access of democratic assemblies to expert knowledge?
+
+<p class="card-link"><a href="publications/machine-advisors.html">Read the overview →</a></p>
+:::
+
+::: {.feature-card}
+<p class="card-kicker">Funded project · 2024–2026</p>
+
+### Look Who's Talking?
+
+What epistemic effects can be expected of LLMs in democratic settings, and how can we improve the odds that this technology will serve democracy rather than harm it?
+
+<p class="card-link"><a href="research.html#look-whos-talking">View the project →</a></p>
+:::
+:::
+:::
+
+::: {.section-shell}
+::: {.book-feature}
+```{=html}
+<img src="assets/book-cover.jpg"
+     alt="Cover of Behavioral Political Economy and Democratic Theory, Routledge 2022"
+     width="350" height="432">
+```
+
+::: {}
+## Book
+
+Published by Routledge, my first book *Behavioral Political Economy and Democratic Theory: Fortifying Democracy for the Digital Age* examines the friction between modern technology and human rationality within liberal democracies. As we move further into a digitally-driven information age, challenges such as disinformation and extreme political polarization become more prominent.
+
+Using a behavioral economics approach, the book explores solutions to these issues while maintaining democratic values and optimizing democratic decision-making. It advocates for a behaviorally grounded theory of democracy and discusses how our understanding of human rationality's limitations can help shape robust democratic institutions.
+
+[About the book](publications/book.html) · [Publisher page](https://www.routledge.com/Behavioral-Political-Economy-and-Democratic-Theory-Fortifying-Democracy/Specian/p/book/9781032229737)
+:::
+:::
+:::
+
+::: {.section-shell}
+## Recent activity
+
+::: {.card-grid}
+::: {.feature-card}
+<p class="card-kicker">August 2026 · Working paper</p>
+
+### Built for Humans Only?
+
+Why AI adoption in higher education requires a new deal: the structural mismatch between generative AI and the organizational logic of universities, and a portfolio-based alternative to grades.
+
+<p class="card-link"><a href="publications/built-for-humans-only.html">Read the overview →</a></p>
+:::
+
+::: {.feature-card}
+<p class="card-kicker">July 2026 · Conference talk</p>
+
+### Speakers for the Dead
+
+AI proxies and the political economy of intergenerational governance, with Lucy Císař Brown. European PPE Network Conference, University of Bayreuth.
+
+<p class="card-link"><a href="talks.html#conference-talks">Talks and media →</a></p>
+:::
+
+::: {.feature-card}
+<p class="card-kicker">June 2026 · Keynote</p>
+
+### AI Is Here. What Now?
+
+Opening keynote of the Učím na Ostravské festival, University of Ostrava, on what universities should do now that students use AI daily. In Czech.
+
+<p class="card-link"><a href="https://alive.osu.cz/festival-ucim-na-ostravske-otevrel-debatu-o-ai-vyuce-i-budoucnosti-vysokych-skol/">Festival report →</a> · <a href="talks.html">Talks and media →</a></p>
+:::
+:::
+:::
