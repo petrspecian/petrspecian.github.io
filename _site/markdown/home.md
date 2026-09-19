@@ -12,7 +12,7 @@ I serve as the Coordinator for Studies at [PPE Prague](https://studyppe.com/) at
 
 ## Research
 
-My main interest lies in seeking ways to expedite institutional adaptation to technological shocks and improve the robustness and performance of our key institutional infrastructure. I am also interested in futures studies and progress studies.
+I seek ways to expedite institutional adaptation to technological shocks and improve the robustness and performance of our key institutional infrastructure. I am also interested in futures studies and progress studies.
 
 Research programme
 

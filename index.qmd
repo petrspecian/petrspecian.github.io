@@ -36,7 +36,7 @@ header-includes: |
 ::: {.section-shell}
 ## Research
 
-<p class="section-intro">My main interest lies in seeking ways to expedite institutional adaptation to technological shocks and improve the robustness and performance of our key institutional infrastructure. I am also interested in futures studies and progress studies.</p>
+<p class="section-intro">I seek ways to expedite institutional adaptation to technological shocks and improve the robustness and performance of our key institutional infrastructure. I am also interested in futures studies and progress studies.</p>
 
 ::: {.card-grid}
 ::: {.feature-card}
