@@ -52,7 +52,7 @@ a:hover { color: var(--blue-dark); }
    and turns white once the reader scrolls */
 body.nav-fixed { padding-top: 0 !important; }
 #quarto-header .navbar { background: transparent !important; border-bottom-color: transparent; transition: background-color 0.2s ease, border-color 0.2s ease; }
-#quarto-header.scrolled .navbar { background: #fff !important; border-bottom: 1px solid var(--rule); }
+#quarto-header.scrolled .navbar, #quarto-header.menu-open .navbar { background: #fff !important; border-bottom: 1px solid var(--rule); }
 #quarto-header.scrolled { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06); }
 
 /* the page title sits on Petr's pastel banner, in the thin weight his site uses */
@@ -266,8 +266,14 @@ p.hero-actions { margin: 1.4rem 0; }
   .section-shell { padding: 1.4rem 1.35rem 1.8rem; }
   .book-feature { grid-template-columns: 1fr; }
   .book-feature img { max-width: 200px; }
-  .hero-actions { flex-direction: column; align-items: stretch; }
-  .button-primary, .button-secondary { width: 100%; }
+  /* phones: the three hero buttons become a plain link row (stacked buttons read as a cookie banner) */
+  .hero-actions { flex-direction: row; flex-wrap: wrap; align-items: baseline; gap: 0.2rem 1.4rem; margin: 1rem 0 0.4rem; }
+  .hero-actions .button-primary, .hero-actions .button-secondary {
+    width: auto; background: none; box-shadow: none; border: 0; padding: 0;
+    color: var(--blue); font-weight: 400; font-size: 1.05rem;
+    text-decoration: underline; text-underline-offset: 4px;
+  }
+  .hero-actions .button-primary:hover, .hero-actions .button-secondary:hover { background: none; color: var(--blue-dark); }
   .quarto-title-banner { min-height: 220px; }
   .citation-list p { padding-left: 1.2rem; text-indent: -1.2rem; }
 }

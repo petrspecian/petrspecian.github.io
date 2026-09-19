@@ -285,6 +285,12 @@ ul.task-list li input[type="checkbox"] {
   var f = function () { h.classList.toggle("scrolled", window.scrollY > 24); };
   window.addEventListener("scroll", f, { passive: true });
   f();
+  /* while the collapsed (phone) menu is open, the header is white too, so the links never sit on the banner */
+  var c = h.querySelector(".navbar-collapse");
+  if (c) {
+    c.addEventListener("show.bs.collapse", function () { h.classList.add("menu-open"); });
+    c.addEventListener("hidden.bs.collapse", function () { h.classList.remove("menu-open"); });
+  }
 })();
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
