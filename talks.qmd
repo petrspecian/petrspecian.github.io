@@ -78,6 +78,8 @@ I speak regularly on AI and democracy, the future of universities, and instituti
 ## Interviews
 
 ::: {.citation-list}
+**On the economics of love** (September 2026). Podcast conversation with Honza Vojtko for *Potetovaná duše*, Deník N, on what happens when the tools of economics are turned on intimate relationships: do we enter a relationship the way a firm enters a merger, on the basis of comparative advantage? [Listen](https://denikn.cz/2183941/laska-z-pohledu-ekonomie-maji-vztahy-cenovku/) (Czech, subscription)
+
 **On AI trajectories in Czechia** (April 2025). Interview with Jan Čáp for *Téma* magazine on artificial intelligence in Czechia and prospects for the future; the online version was published by Technet. [Read](https://www.idnes.cz/technet/software/petr-specian-ai-umela-inteligence-budoucnost-vedec-chatbot.A250424_848837_software_krd) (Czech)
 :::
 
