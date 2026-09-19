@@ -395,6 +395,20 @@ June 2026 · Keynote
   if (c) {
     c.addEventListener("show.bs.collapse", function () { h.classList.add("menu-open"); });
     c.addEventListener("hidden.bs.collapse", function () { h.classList.remove("menu-open"); });
+    /* close the open menu as soon as the reader scrolls or taps outside it */
+    var close = function () {
+      if (!c.classList.contains("show")) return;
+      var t = h.querySelector(".navbar-toggler");
+      if (t) t.click();
+    };
+    var y0 = 0;
+    c.addEventListener("show.bs.collapse", function () { y0 = window.scrollY; });
+    window.addEventListener("scroll", function () {
+      if (c.classList.contains("show") && Math.abs(window.scrollY - y0) > 40) close();
+    }, { passive: true });
+    document.addEventListener("click", function (e) {
+      if (c.classList.contains("show") && !h.contains(e.target)) close();
+    });
   }
 })();
 </script>
