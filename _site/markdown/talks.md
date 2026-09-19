@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-09-19 -->
 
 # Talks and Media
 

@@ -76,7 +76,7 @@ What epistemic effects can be expected of LLMs in democratic settings, and how c
 ```{=html}
 <img src="assets/book-cover.jpg"
      alt="Cover of Behavioral Political Economy and Democratic Theory, Routledge 2022"
-     width="350" height="432">
+     width="350" height="535">
 ```
 
 ::: {}

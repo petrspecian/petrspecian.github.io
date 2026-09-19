@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/give-the-machine-a-chance.html · Markdown twin of the HTML page, generated 2026-09-18 -->
+<!-- https://petrspecian.com/publications/give-the-machine-a-chance.html · Markdown twin of the HTML page, generated 2026-09-19 -->
 
 # Give the machine a chance, human experts ain’t that great…
 
