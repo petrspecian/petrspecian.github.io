@@ -266,14 +266,17 @@ p.hero-actions { margin: 1.4rem 0; }
   .section-shell { padding: 1.4rem 1.35rem 1.8rem; }
   .book-feature { grid-template-columns: 1fr; }
   .book-feature img { max-width: 200px; }
-  /* phones: the three hero buttons become a plain link row (stacked buttons read as a cookie banner) */
-  .hero-actions { flex-direction: row; flex-wrap: wrap; align-items: baseline; gap: 0.2rem 1.4rem; margin: 1rem 0 0.4rem; }
+  /* phones: three compact buttons in one row (stacked full-width buttons read as a cookie banner) */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1.2rem 0 0.4rem; }
+  .hero-actions > p { display: contents; }
   .hero-actions .button-primary, .hero-actions .button-secondary {
-    width: auto; background: none; box-shadow: none; border: 0; padding: 0;
-    color: var(--blue); font-weight: 400; font-size: 1.05rem;
-    text-decoration: underline; text-underline-offset: 4px;
+    width: auto; flex: 0 0 auto; min-width: 0; white-space: nowrap; text-align: center;
+    padding: 0.45rem 0.55rem; font-size: 0.84rem; border-radius: 4px;
   }
-  .hero-actions .button-primary:hover, .hero-actions .button-secondary:hover { background: none; color: var(--blue-dark); }
+  /* home cards stack: a hairline above each, kicker in blue, tighter heading */
+  .card-grid .feature-card { border-top: 1px solid var(--rule); padding-top: 0.9rem; margin-top: 0.2rem; }
+  .card-grid .feature-card .card-kicker { color: var(--blue); font-size: 0.82rem; margin-bottom: 0.1rem; }
+  .card-grid .feature-card h3 { font-size: 1.3rem; margin-top: 0.1rem; line-height: 1.25; }
   .quarto-title-banner { min-height: 220px; }
   .citation-list p { padding-left: 1.2rem; text-indent: -1.2rem; }
 }
