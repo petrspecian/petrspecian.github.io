@@ -224,6 +224,10 @@ def check_machine_layer():
                 continue
             if "__BUILD_DATE__" in block:
                 err(f"{rel(p)}: build date placeholder not stamped")
+            for node in (data.get("@graph", [data]) if isinstance(data, dict) else []):
+                dm = node.get("dateModified") if isinstance(node, dict) else None
+                if dm and not re.match(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(Z|[+-]\d{2}:\d{2})$", dm):
+                    err(f"{rel(p)}: dateModified is not an ISO 8601 date-time with offset -> {dm}")
             nodes = data.get("@graph", [data])
             for n in nodes:
                 if n.get("@type") in ("ScholarlyArticle", "Book", "Chapter", "Article") and not n.get("author"):

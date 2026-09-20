@@ -20,6 +20,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, "_site")
 BASE = "https://petrspecian.com"
 TODAY = datetime.date.today().isoformat()
+# Google's Profile page structured data requires an ISO 8601 date-TIME with a
+# timezone offset for dateModified; a bare date is reported as invalid.
+BUILD_DATETIME = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
 
 PAGES = [
     ("index.html", "home", "Home", "Positioning, current work, and recent activity."),
@@ -162,7 +165,7 @@ def stamp_dates():
                 p = os.path.join(dirpath, f)
                 s = read(p)
                 if "__BUILD_DATE__" in s:
-                    write(p, s.replace("__BUILD_DATE__", TODAY))
+                    write(p, s.replace("__BUILD_DATE__", BUILD_DATETIME))
                     n += 1
     prof = os.path.join(SITE, "markdown", "profile.md")
     if os.path.exists(prof):
