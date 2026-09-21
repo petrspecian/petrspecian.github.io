@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/digital-homunculi.html · Markdown twin of the HTML page, generated 2026-09-20 -->
+<!-- https://petrspecian.com/publications/digital-homunculi.html · Markdown twin of the HTML page, generated 2026-09-21 -->
 
 # Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck
 

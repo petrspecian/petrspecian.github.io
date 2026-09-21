@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/ · Markdown twin of the HTML page, generated 2026-09-20 -->
+<!-- https://petrspecian.com/ · Markdown twin of the HTML page, generated 2026-09-21 -->
 
 # Home
 

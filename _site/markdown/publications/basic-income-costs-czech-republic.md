@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/basic-income-costs-czech-republic.html · Markdown twin of the HTML page, generated 2026-09-20 -->
+<!-- https://petrspecian.com/publications/basic-income-costs-czech-republic.html · Markdown twin of the HTML page, generated 2026-09-21 -->
 
 # An Estimate of the Basic Income Costs: Case of the Czech Republic
 

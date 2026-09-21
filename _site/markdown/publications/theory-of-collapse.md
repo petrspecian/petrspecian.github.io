@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/theory-of-collapse.html · Markdown twin of the HTML page, generated 2026-09-20 -->
+<!-- https://petrspecian.com/publications/theory-of-collapse.html · Markdown twin of the HTML page, generated 2026-09-21 -->
 
 # Konec se blíží? Kritické připomínky k teorii kolapsů
 
