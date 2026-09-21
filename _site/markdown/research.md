@@ -80,6 +80,6 @@ The project researched the philosophical implications of the expanding evidence 
 
 ## Collaboration
 
-I work with **Lucy Císař Brown** on the epistemic and social consequences of LLMs, including our joint work on AI oracles and on machine versus human expertise. I am glad to hear from researchers working on institutional adaptation to AI, particularly from outside political science.
+I work with [**Lucy Císař Brown**](https://orcid.org/0000-0003-2524-5453) on the epistemic and social consequences of LLMs, including our joint work on AI oracles and on machine versus human expertise. I am glad to hear from researchers working on institutional adaptation to AI, particularly from outside political science.
 
 [Get in touch](https://petrspecian.com/contact.html)
