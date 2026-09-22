@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/contact.html · Markdown twin of the HTML page, generated 2026-09-21 -->
+<!-- https://petrspecian.com/contact.html · Markdown twin of the HTML page, generated 2026-09-22 -->
 
 ## Get in touch
 
