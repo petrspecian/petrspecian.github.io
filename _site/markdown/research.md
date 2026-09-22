@@ -6,7 +6,7 @@ My research draws upon my background in economics, philosophy, and political the
 
 ## Current work
 
-The **AI Institutional Transformation Research Group** is an interdisciplinary research initiative founded in April 2023 and based at Charles University. We investigate how political and epistemic institutions can adapt to the challenges triggered by advancing capabilities and diffusion of artificial intelligence. Our work aims to bridge the gap between the rapid technological change and the slower adaptation cycles of social institutions. Our goal is to generate insights useful for institutional designers, policymakers, and democratic innovators navigating the transition to an AI-infused society. The group works through joint projects listed below.
+The **AI Institutional Transformation Research Group** is an interdisciplinary research initiative founded in April 2023 and based at Charles University. We investigate how political and epistemic institutions can adapt to the challenges triggered by advancing capabilities and diffusion of artificial intelligence. Our work aims to bridge the gap between the rapid technological change and the slower adaptation cycles of social institutions. Our goal is to generate insights useful for institutional designers, policymakers, and democratic innovators navigating the transition to an AI-infused society. The group works through projects listed below.
 
 ### Universities and AI
 
