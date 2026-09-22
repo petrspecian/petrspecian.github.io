@@ -296,3 +296,6 @@ details.abstract summary::-webkit-details-marker { display: none; }
 details.abstract summary::before { content: "+ "; }
 details.abstract[open] summary::before { content: "− "; }
 details.abstract p { font-size: 0.95rem; margin-top: 0.5rem; }
+
+/* Anchor targets clear the 63px sticky navbar (arrivals from institutional-transformation.ai land on #ai-institutional-transformation) */
+h1[id], h2[id], h3[id], h4[id], section[id], div[id].project { scroll-margin-top: 5rem; }
