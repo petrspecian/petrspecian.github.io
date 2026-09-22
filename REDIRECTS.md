@@ -57,8 +57,8 @@ move. The script is kept for reference only.
 ## Post-cutover checks
 
 - [x] petr-specian.com: every old URL returns 301 (verified 2026-09-19)
-- [ ] institutional-transformation.ai: every old URL returns 301
+- [x] institutional-transformation.ai: every old URL returns 301 (5 Cloudflare rules, verified 32/32 on 2026-09-22)
 - [x] Canonical is `petrspecian.com` apex; `www.petrspecian.com` and `petr-specian.com` 301 to it (verified 2026-09-22)
-- [ ] Both apex and `www` of `institutional-transformation.ai` redirect
+- [x] Both apex and `www` of `institutional-transformation.ai` redirect (2026-09-22)
 - [ ] Google Search Console: submit the new sitemap, watch coverage for two weeks
 - [ ] Update the URL in the ORCID record if the canonical host changes
