@@ -70,6 +70,8 @@ How social-media platforms and digital information environments shape citizens' 
 
 **On AI trajectories in Czechia** (April 2025). Interview with Jan Čáp for *Téma* magazine on artificial intelligence in Czechia and prospects for the future; the online version was published by Technet. [Read](https://www.idnes.cz/technet/software/petr-specian-ai-umela-inteligence-budoucnost-vedec-chatbot.A250424_848837_software_krd) (Czech)
 
+**On universities and AI** (April 2024). Feature by Helena Zdráhalová for *Forum*, the Charles University magazine, republished by *Universitas*, on how universities and other institutions can adapt to AI, and on studying that adaptation as it happens. [Read](https://www.universitas.cz/aktuality/11825-specian-ai-univerzity-neohrozi-kdyz-se-ji-nauci-spravne-pouzivat) (Czech)
+
 **On AI, research methods, and democracy** (April 2024). Interview with Alena Ivanova for the Faculty of Humanities, Charles University, on the path from economics to philosophy, simulating research subjects with large language models, democracy in the digital age, and whether AI is neutral. [Read](https://fhs.cuni.cz/FHS-3214.html) (Czech)
 
 ## Keynotes and invited lectures
