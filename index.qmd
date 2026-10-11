@@ -96,6 +96,16 @@ Using a behavioral economics approach, the book explores solutions to these issu
 
 ::: {.card-grid}
 ::: {.feature-card}
+<p class="card-kicker">October 2026 · Invited talk</p>
+
+### Universal Basic AI Access
+
+Promises, threats, and timelines. While free tier access improved, it did more to close the curiosity gap than the work gap. Prague Workshop on Responsible AI, Czech Technical University in Prague.
+
+<p class="card-link"><a href="https://rai.fel.cvut.cz/events/prague-workshop-responsible-ai-2026/">Workshop →</a> · <a href="talks.html#keynotes-and-invited-lectures">Talks and media →</a></p>
+:::
+
+::: {.feature-card}
 <p class="card-kicker">August 2026 · Working paper</p>
 
 ### Built for Humans Only?
@@ -113,16 +123,6 @@ Why AI adoption in higher education requires a new deal: the structural mismatch
 AI proxies and the political economy of intergenerational governance, with Lucy Císař Brown. European PPE Network Conference, University of Bayreuth.
 
 <p class="card-link"><a href="talks.html#conference-talks">Talks and media →</a></p>
-:::
-
-::: {.feature-card}
-<p class="card-kicker">June 2026 · Keynote</p>
-
-### AI Is Here. What Now?
-
-Opening keynote of the Učím na Ostravské festival, University of Ostrava, on what universities should do now that students use AI daily. In Czech.
-
-<p class="card-link"><a href="https://alive.osu.cz/festival-ucim-na-ostravske-otevrel-debatu-o-ai-vyuce-i-budoucnosti-vysokych-skol/">Festival report →</a> · <a href="talks.html">Talks and media →</a></p>
 :::
 :::
 :::

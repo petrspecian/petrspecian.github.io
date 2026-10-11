@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/myth-of-the-victim-public.html · Markdown twin of the HTML page, generated 2026-09-22 -->
+<!-- https://petrspecian.com/publications/myth-of-the-victim-public.html · Markdown twin of the HTML page, generated 2026-10-11 -->
 
 # The Myth of the Victim Public: Democracy Contra Disinformation
 

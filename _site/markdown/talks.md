@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-09-22 -->
+<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-10-11 -->
 
 # Talks and Media
 
@@ -73,6 +73,8 @@ Individual normative sovereignty and the value liberal societies attach to peopl
 **On AI trajectories in Czechia** (April 2025). Interview with Jan Čáp for *Téma* magazine on artificial intelligence in Czechia and prospects for the future; the online version was published by Technet. [Read](https://www.idnes.cz/technet/software/petr-specian-ai-umela-inteligence-budoucnost-vedec-chatbot.A250424_848837_software_krd) (Czech)
 
 ## Keynotes and invited lectures
+
+**“Universal Basic AI Access: Promises, Threats, and Timelines”** Invited talk (9 October 2026). [Prague Workshop on Responsible AI](https://rai.fel.cvut.cz/events/prague-workshop-responsible-ai-2026/), Czech Technical University in Prague, Czechia. In 2025, we proposed [universal basic AI access](https://petrspecian.com/publications/universal-basic-ai-access.html) (UBAI) as a policy to enable equitable access to frontier GenAI capabilities. While free tier access improved, it did more to close the curiosity gap than the work gap. What grew more apparent is that access alone does not suffice to prevent digital divides from expanding, and that time is likely too short for national UBAI-Heavy schemes. The talk moves toward a UBAI 2.0 that downsizes national ambitions while suggesting domain-specific trials as an effective adoption onramp. Followed by the panel *The impact and future of AI-human collaboration*.
 
 **“Pravda nebo lež? Jak je libo!” \[Truth or Lie? Take Your Pick\]** Invited talk (16 July 2026), in Czech. STEM influencer brunch, Prague, Czechia.
 

@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/machine-advisors.html · Markdown twin of the HTML page, generated 2026-09-22 -->
+<!-- https://petrspecian.com/publications/machine-advisors.html · Markdown twin of the HTML page, generated 2026-10-11 -->
 
 # Machine Advisors: Integrating Large Language Models Into Democratic Assemblies
 

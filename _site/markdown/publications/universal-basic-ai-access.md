@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/universal-basic-ai-access.html · Markdown twin of the HTML page, generated 2026-09-22 -->
+<!-- https://petrspecian.com/publications/universal-basic-ai-access.html · Markdown twin of the HTML page, generated 2026-10-11 -->
 
 # Universal Basic AI Access: Countering the Digital Divide
 

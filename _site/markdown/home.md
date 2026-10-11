@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/ · Markdown twin of the HTML page, generated 2026-09-22 -->
+<!-- https://petrspecian.com/ · Markdown twin of the HTML page, generated 2026-10-11 -->
 
 # Home
 
@@ -50,6 +50,14 @@ Using a behavioral economics approach, the book explores solutions to these issu
 
 ## Recent activity
 
+October 2026 · Invited talk
+
+### Universal Basic AI Access
+
+Promises, threats, and timelines. While free tier access improved, it did more to close the curiosity gap than the work gap. Prague Workshop on Responsible AI, Czech Technical University in Prague.
+
+[Workshop →](https://rai.fel.cvut.cz/events/prague-workshop-responsible-ai-2026/) · [Talks and media →](https://petrspecian.com/talks.html#keynotes-and-invited-lectures)
+
 August 2026 · Working paper
 
 ### Built for Humans Only?
@@ -65,11 +73,3 @@ July 2026 · Conference talk
 AI proxies and the political economy of intergenerational governance, with Lucy Císař Brown. European PPE Network Conference, University of Bayreuth.
 
 [Talks and media →](https://petrspecian.com/talks.html#conference-talks)
-
-June 2026 · Keynote
-
-### AI Is Here. What Now?
-
-Opening keynote of the Učím na Ostravské festival, University of Ostrava, on what universities should do now that students use AI daily. In Czech.
-
-[Festival report →](https://alive.osu.cz/festival-ucim-na-ostravske-otevrel-debatu-o-ai-vyuce-i-budoucnosti-vysokych-skol/) · [Talks and media →](https://petrspecian.com/talks.html)
