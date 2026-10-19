@@ -78,17 +78,11 @@ I speak regularly on AI and democracy, the future of universities, and instituti
 ## Interviews
 
 ::: {.citation-list}
-**On love from the perspective of economics** (September 2026). Conversation with Honza Vojtko for the *Potetovaná duše* podcast (Deník N) on whether relationships have a price tag. [Watch an excerpt](https://www.youtube.com/watch?v=izHzXyo3tqg) · [Full episode](https://denikn.cz/2183941/laska-z-pohledu-ekonomie-maji-vztahy-cenovku/) (Czech, subscription)
-
 **On AI trajectories in Czechia** (April 2025). Interview with Jan Čáp for *Téma* magazine on artificial intelligence in Czechia and prospects for the future; the online version was published by Technet. [Read](https://www.idnes.cz/technet/software/petr-specian-ai-umela-inteligence-budoucnost-vedec-chatbot.A250424_848837_software_krd) (Czech)
-
-**On AI in science and research** (August 2024). Episode of the *Zákulisí sociologie* podcast (Youradio Talk) on chatbots alongside human experts, responsibility for their outputs, and why institutional adoption is likely to continue. [Watch](https://www.youtube.com/watch?v=ppGykCSrCqg) · [Listen on Spotify](https://open.spotify.com/episode/2xRRX4wSUDSa0Aw7lbOMUu) (Czech)
 
 **On universities and AI** (April 2024). Feature by Helena Zdráhalová for *Forum*, the Charles University magazine, republished by *Universitas*, on how universities and other institutions can adapt to AI, and on studying that adaptation as it happens. [Read](https://www.universitas.cz/aktuality/11825-specian-ai-univerzity-neohrozi-kdyz-se-ji-nauci-spravne-pouzivat) (Czech)
 
 **On AI, research methods, and democracy** (April 2024). Interview with Alena Ivanova for the Faculty of Humanities, Charles University, on the path from economics to philosophy, simulating research subjects with large language models, democracy in the digital age, and whether AI is neutral. [Read](https://fhs.cuni.cz/FHS-3214.html) (Czech)
-
-**On the social impacts of AI** (September 2023). Interview with Jakub Krejčí at the Summer School of Philosophy, University of Hradec Králové, Broumov, on technological unemployment, inequality, institutional change, and political life in the digital age. [Watch](https://www.youtube.com/watch?v=FGPvuJr6v1M) (Czech)
 :::
 
 ## Keynotes and invited lectures
@@ -104,8 +98,6 @@ I speak regularly on AI and democracy, the future of universities, and instituti
 
 **"Mental Health vs. Artificial Intelligence"** Guest seminar (13 May 2026). Ondřejov Day Psychotherapeutic Sanatorium, Prague, Czechia.
 
-**"AI a věda" [AI and Science]** Science Café discussion (26 February 2026), in Czech, with Martin Víta (Institute of Computer Science, Czech Academy of Sciences). [Science Café UK](https://www.kampushybernska.cz/program/science-cafe-uk-ai-a-veda), Kampus Hybernská, Charles University, Prague, Czechia. [Recording (audio)](https://www.youtube.com/watch?v=e1pn3FXk6c4)
-
 **"Artificial Intelligence and the Future of Democracy: A Scenario Analysis"** Guest lecture (18 November 2025). Faculty of Arts, Charles University, Prague, Czechia.
 
 **"The Purpose of Higher Education in the 21st Century: What Educational Model Do We Need?"** Panel presentation (11 November 2025). Scio, Prague, Czechia.
@@ -115,8 +107,6 @@ I speak regularly on AI and democracy, the future of universities, and instituti
 **"Large Language Models in Democratic Society"** Invited lecture (9 September 2024). [AmKon](https://modelkongresu.cz/en/), Plzeň, Czechia.
 
 **"Generative AI and the Future of Tertiary Education"** Keynote (6 September 2024). [Conference on Educational Activities of Universities](https://msmt.gov.cz/vzdelavani/vysoke-skolstvi/dny-vzdelavaci-cinnosti-2024?lang=1), Prague, Czechia.
-
-**"Demokracie v digitálním věku" [Democracy in the Digital Age]** Invited lecture (22 April 2024), in Czech. Odborné fórum, Institute of Information Studies and Librarianship, Faculty of Arts, Charles University, Prague, Czechia. [Recording](https://www.youtube.com/watch?v=yGGovIy_uT0)
 
 **"Sustaining People's Rule in the Digital Age"** Invited talk (17 November 2023). Meaning of Democracy Conference, [Polish Academy of Sciences, Scientific Centre in Vienna](https://vienna.pan.pl/), Austria.
 
@@ -167,8 +157,6 @@ Author-meets-critics session on *Behavioral Political Economy and Democratic The
 
 ::: {.citation-list}
 "Reimagining Institutions through Generative AI: Navigating the Maze of Institutional Innovation" (28 October 2023). [Computing the Human](https://www.muni.cz/en/events-calendar/u/804408u-computing-the-human-call-for-paper), Brno, Czechia.
-
-"Sociální technologie budoucnosti [Social Technologies of the Future]" (29 September 2023). Summer school, University of Hradec Králové, Broumov, Czechia. [Recording](https://www.youtube.com/watch?v=xrqnDgZLrPg)
 
 "Democratizing Expertise: The Limits and Possibilities of Artificial Intelligence in Enhancing Democratic Decision-Making" (8 September 2023). ECPR General Conference 2023, Prague, Czechia.
 
