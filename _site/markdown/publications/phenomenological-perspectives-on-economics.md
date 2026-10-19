@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/phenomenological-perspectives-on-economics.html · Markdown twin of the HTML page, generated 2026-10-11 -->
+<!-- https://petrspecian.com/publications/phenomenological-perspectives-on-economics.html · Markdown twin of the HTML page, generated 2026-10-19 -->
 
 # Phenomenological Perspectives on Economics: Schütz versus Düppe
 

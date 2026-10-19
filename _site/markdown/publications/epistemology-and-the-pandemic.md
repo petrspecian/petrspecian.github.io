@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/epistemology-and-the-pandemic.html · Markdown twin of the HTML page, generated 2026-10-11 -->
+<!-- https://petrspecian.com/publications/epistemology-and-the-pandemic.html · Markdown twin of the HTML page, generated 2026-10-19 -->
 
 # Epistemology and the Pandemic: Lessons from an Epistemic Crisis
 

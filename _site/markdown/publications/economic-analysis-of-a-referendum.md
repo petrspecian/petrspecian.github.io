@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/economic-analysis-of-a-referendum.html · Markdown twin of the HTML page, generated 2026-10-11 -->
+<!-- https://petrspecian.com/publications/economic-analysis-of-a-referendum.html · Markdown twin of the HTML page, generated 2026-10-19 -->
 
 # Ekonomická analýza referenda
 

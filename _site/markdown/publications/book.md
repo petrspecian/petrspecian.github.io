@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/book.html · Markdown twin of the HTML page, generated 2026-10-11 -->
+<!-- https://petrspecian.com/publications/book.html · Markdown twin of the HTML page, generated 2026-10-19 -->
 
 # Behavioral Political Economy and Democratic Theory
 
