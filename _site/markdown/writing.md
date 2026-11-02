@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/writing.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/writing.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Writing
 

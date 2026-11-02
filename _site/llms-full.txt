@@ -1,6 +1,6 @@
 # Petr Špecián · full site text
 
-Generated 2026-10-19 from https://petrspecian.com. Index of sections: https://petrspecian.com/llms.txt
+Generated 2026-11-02 from https://petrspecian.com. Index of sections: https://petrspecian.com/llms.txt
 
 ---
 
@@ -8,7 +8,7 @@ Generated 2026-10-19 from https://petrspecian.com. Index of sections: https://pe
 
 Canonical page: https://petrspecian.com/
 ORCID: https://orcid.org/0000-0003-2702-0354
-Last updated: 2026-10-19
+Last updated: 2026-11-02
 
 ## Identity
 
@@ -79,7 +79,7 @@ Petr Špecián was formerly affiliated with the Faculty of Humanities, Charles U
 
 ---
 
-<!-- https://petrspecian.com/ · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/ · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Home
 
@@ -157,7 +157,7 @@ AI proxies and the political economy of intergenerational governance, with Lucy 
 
 ---
 
-<!-- https://petrspecian.com/about.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/about.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # About
 
@@ -218,7 +218,7 @@ I teach and speak in Czech and English.
 
 ---
 
-<!-- https://petrspecian.com/research.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/research.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Research
 
@@ -308,7 +308,7 @@ I work with [**Lucy Císař Brown**](https://orcid.org/0000-0003-2524-5453) on t
 
 ---
 
-<!-- https://petrspecian.com/publications.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 ## Selected work
 
@@ -424,7 +424,7 @@ Citations for reference managers: [BibTeX](https://petrspecian.com/bib/publicati
 
 ---
 
-<!-- https://petrspecian.com/teaching.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/teaching.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Teaching
 
@@ -506,7 +506,7 @@ I supervise bachelor’s theses in the PPE programme and co-teach the BA Thesis 
 
 ---
 
-<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Talks and Media
 
@@ -583,6 +583,8 @@ Technology understood broadly, to include institutions such as capitalism and li
 **On AI, research methods, and democracy** (April 2024). Interview with Alena Ivanova for the Faculty of Humanities, Charles University, on the path from economics to philosophy, simulating research subjects with large language models, democracy in the digital age, and whether AI is neutral. [Read](https://fhs.cuni.cz/FHS-3214.html) (Czech)
 
 ## Keynotes and invited lectures
+
+**“Svět s AI: Jaké instituce potřebujeme?” \[A World with AI: What Institutions Do We Need?\]** Panel discussion (31 October 2026), with Lucy Císař Brown. [Inspirační fórum](https://www.inspiracniforum.cz/program/svet-s-ai-jake-instituce-potrebujeme), Ji.hlava International Documentary Film Festival, Jihlava, Czechia.
 
 **“Universal Basic AI Access: Promises, Threats, and Timelines”** Invited talk (9 October 2026). [Prague Workshop on Responsible AI](https://rai.fel.cvut.cz/events/prague-workshop-responsible-ai-2026/), Czech Technical University in Prague, Czechia. In 2025, we proposed [universal basic AI access](https://petrspecian.com/publications/universal-basic-ai-access.html) (UBAI) as a policy to enable equitable access to frontier GenAI capabilities. While free tier access improved, it did more to close the curiosity gap than the work gap. What grew more apparent is that access alone does not suffice to prevent digital divides from expanding, and that time is likely too short for national UBAI-Heavy schemes. The talk moves toward a UBAI 2.0 that downsizes national ambitions while suggesting domain-specific trials as an effective adoption onramp. Followed by the panel *The impact and future of AI-human collaboration*.
 
@@ -704,7 +706,7 @@ Member of the organizing committee, [The Society for Cognitive Science and Philo
 
 ---
 
-<!-- https://petrspecian.com/writing.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/writing.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Writing
 
@@ -730,7 +732,7 @@ For the academic record, including full texts where they are open, see [Publicat
 
 ---
 
-<!-- https://petrspecian.com/contact.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/contact.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 ## Get in touch
 
@@ -759,7 +761,7 @@ I speak in English and Czech on AI and democracy, the future of universities, an
 
 ---
 
-<!-- https://petrspecian.com/publications/basic-income-costs-czech-republic.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/basic-income-costs-czech-republic.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # An Estimate of the Basic Income Costs: Case of the Czech Republic
 
@@ -783,7 +785,7 @@ Melzochová, Jitka, and Petr Špecián. 2015. “An Estimate of the Basic Income
 
 ---
 
-<!-- https://petrspecian.com/publications/book.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/book.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Behavioral Political Economy and Democratic Theory
 
@@ -807,7 +809,7 @@ Behavioral Political Economy and Democratic Theory examines the friction between
 
 ---
 
-<!-- https://petrspecian.com/publications/built-for-humans-only.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/built-for-humans-only.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal
 
@@ -833,7 +835,7 @@ Generative AI · Higher education · Institutional economics · Assessment · Or
 
 ---
 
-<!-- https://petrspecian.com/publications/digital-homunculi.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/digital-homunculi.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Digital Homunculi and Institutional Design: Breaking Through the Experimentation Bottleneck
 
@@ -859,7 +861,7 @@ Generative agents · Large language models · Democracy research · Synthetic da
 
 ---
 
-<!-- https://petrspecian.com/publications/economic-analysis-of-a-referendum.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/economic-analysis-of-a-referendum.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Ekonomická analýza referenda
 
@@ -883,7 +885,7 @@ Referendum · Wisdom of the crowds · Voter competence · Behavioral economics �
 
 ---
 
-<!-- https://petrspecian.com/publications/epistemology-and-the-pandemic.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/epistemology-and-the-pandemic.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Epistemology and the Pandemic: Lessons from an Epistemic Crisis
 
@@ -907,7 +909,7 @@ COVID-19 · Epistemic crisis · Expertise · Meta-expertise · Social epistemolo
 
 ---
 
-<!-- https://petrspecian.com/publications/give-the-machine-a-chance.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/give-the-machine-a-chance.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Give the machine a chance, human experts ain’t that great…
 
@@ -927,7 +929,7 @@ Argues that the policy-relevant comparison is between LLMs and real human expert
 
 ---
 
-<!-- https://petrspecian.com/publications/machine-advisors.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/machine-advisors.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Machine Advisors: Integrating Large Language Models Into Democratic Assemblies
 
@@ -953,7 +955,7 @@ Large language models · Democracy · Expertise · Epistemic democracy · AI adv
 
 ---
 
-<!-- https://petrspecian.com/publications/myth-of-the-victim-public.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/myth-of-the-victim-public.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # The Myth of the Victim Public: Democracy Contra Disinformation
 
@@ -977,7 +979,7 @@ Disinformation · Political epistemology · Democratic theory · Motivated reaso
 
 ---
 
-<!-- https://petrspecian.com/publications/phenomenological-perspectives-on-economics.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/phenomenological-perspectives-on-economics.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Phenomenological Perspectives on Economics: Schütz versus Düppe
 
@@ -1001,7 +1003,7 @@ Phenomenology · Philosophy of economics · Alfred Schütz · Till Düppe · Ide
 
 ---
 
-<!-- https://petrspecian.com/publications/theory-of-collapse.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/theory-of-collapse.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Konec se blíží? Kritické připomínky k teorii kolapsů
 
@@ -1025,7 +1027,7 @@ Collapse of complex societies · Miroslav Bárta · Philosophy of social science
 
 ---
 
-<!-- https://petrspecian.com/publications/universal-basic-ai-access.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/publications/universal-basic-ai-access.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Universal Basic AI Access: Countering the Digital Divide
 

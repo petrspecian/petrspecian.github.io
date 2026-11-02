@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-10-19 -->
+<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-11-02 -->
 
 # Talks and Media
 
@@ -75,6 +75,8 @@ Technology understood broadly, to include institutions such as capitalism and li
 **On AI, research methods, and democracy** (April 2024). Interview with Alena Ivanova for the Faculty of Humanities, Charles University, on the path from economics to philosophy, simulating research subjects with large language models, democracy in the digital age, and whether AI is neutral. [Read](https://fhs.cuni.cz/FHS-3214.html) (Czech)
 
 ## Keynotes and invited lectures
+
+**“Svět s AI: Jaké instituce potřebujeme?” \[A World with AI: What Institutions Do We Need?\]** Panel discussion (31 October 2026), with Lucy Císař Brown. [Inspirační fórum](https://www.inspiracniforum.cz/program/svet-s-ai-jake-instituce-potrebujeme), Ji.hlava International Documentary Film Festival, Jihlava, Czechia.
 
 **“Universal Basic AI Access: Promises, Threats, and Timelines”** Invited talk (9 October 2026). [Prague Workshop on Responsible AI](https://rai.fel.cvut.cz/events/prague-workshop-responsible-ai-2026/), Czech Technical University in Prague, Czechia. In 2025, we proposed [universal basic AI access](https://petrspecian.com/publications/universal-basic-ai-access.html) (UBAI) as a policy to enable equitable access to frontier GenAI capabilities. While free tier access improved, it did more to close the curiosity gap than the work gap. What grew more apparent is that access alone does not suffice to prevent digital divides from expanding, and that time is likely too short for national UBAI-Heavy schemes. The talk moves toward a UBAI 2.0 that downsizes national ambitions while suggesting domain-specific trials as an effective adoption onramp. Followed by the panel *The impact and future of AI-human collaboration*.
 

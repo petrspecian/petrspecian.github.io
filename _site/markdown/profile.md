@@ -2,7 +2,7 @@
 
 Canonical page: https://petrspecian.com/
 ORCID: https://orcid.org/0000-0003-2702-0354
-Last updated: 2026-10-19
+Last updated: 2026-11-02
 
 ## Identity
 
