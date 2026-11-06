@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-11-02 -->
+<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-11-06 -->
 
 # Talks and Media
 
@@ -109,6 +109,8 @@ Technology understood broadly, to include institutions such as capitalism and li
 ## Conference talks
 
 ### 2026
+
+“Built for Humans Only: Generative AI and the Redistribution of Epistemic Power” (6 November 2026). [EMERGE 2026: Contested Futures](https://emerge.ifdt.bg.ac.rs/), Institute for Philosophy and Social Theory, University of Belgrade, Serbia.
 
 “Speakers for the Dead: AI Proxies and the Political Economy of Intergenerational Governance” (22 July 2026), with Lucy Císař Brown. European PPE Network Conference 2026, University of Bayreuth, Germany.
 

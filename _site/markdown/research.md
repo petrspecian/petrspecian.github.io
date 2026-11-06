@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/research.html · Markdown twin of the HTML page, generated 2026-11-02 -->
+<!-- https://petrspecian.com/research.html · Markdown twin of the HTML page, generated 2026-11-06 -->
 
 # Research
 

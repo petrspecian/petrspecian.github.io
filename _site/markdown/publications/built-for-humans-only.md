@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/publications/built-for-humans-only.html · Markdown twin of the HTML page, generated 2026-11-02 -->
+<!-- https://petrspecian.com/publications/built-for-humans-only.html · Markdown twin of the HTML page, generated 2026-11-06 -->
 
 # Built for Humans Only? Why AI Adoption in Higher Education Requires a New Deal
 
