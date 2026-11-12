@@ -1,4 +1,4 @@
-<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-11-06 -->
+<!-- https://petrspecian.com/talks.html · Markdown twin of the HTML page, generated 2026-11-12 -->
 
 # Talks and Media
 
@@ -75,6 +75,8 @@ Technology understood broadly, to include institutions such as capitalism and li
 **On AI, research methods, and democracy** (April 2024). Interview with Alena Ivanova for the Faculty of Humanities, Charles University, on the path from economics to philosophy, simulating research subjects with large language models, democracy in the digital age, and whether AI is neutral. [Read](https://fhs.cuni.cz/FHS-3214.html) (Czech)
 
 ## Keynotes and invited lectures
+
+**“Univerzity ve věku AI: Směr adaptace” \[Universities in the Age of AI: The Direction of Adaptation\]** Invited talk (11 November 2026), in Czech. Roundtable *Vliv AI na trh práce a společnost* \[The Impact of AI on the Labour Market and Society\], Chamber of Deputies of the Parliament of the Czech Republic, Prague, Czechia.
 
 **“Svět s AI: Jaké instituce potřebujeme?” \[A World with AI: What Institutions Do We Need?\]** Panel discussion (31 October 2026), with Lucy Císař Brown. [Inspirační fórum](https://www.inspiracniforum.cz/program/svet-s-ai-jake-instituce-potrebujeme), Ji.hlava International Documentary Film Festival, Jihlava, Czechia.
 
